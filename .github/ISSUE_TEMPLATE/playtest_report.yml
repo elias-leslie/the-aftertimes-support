@@ -24,7 +24,7 @@ body:
     id: artifact
     attributes:
       label: Build artifact and hash
-      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09 / zip SHA 5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa"
+      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d / zip SHA 5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33"
     validations:
       required: true
   - type: dropdown

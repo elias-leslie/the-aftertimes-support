@@ -12,7 +12,7 @@ body:
     attributes:
       label: Build or proof bundle
       description: Paste the build hash, release URL, or proof bundle path you reviewed.
-      placeholder: "realm1-review-d3fc7d09 / docs/PLAYTEST_REPORTS/..."
+      placeholder: "realm1-review-28b02d4d / docs/PLAYTEST_REPORTS/..."
   - type: dropdown
     id: area
     attributes:

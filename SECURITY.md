@@ -25,7 +25,7 @@ Include privately:
 
 | Version | Supported |
 |---------|-----------|
-| current public review package `realm1-review-d3fc7d09` | Yes |
+| current public review package `realm1-review-28b02d4d` | Yes |
 | older snapshots | No |
 
 ## Response Expectations
