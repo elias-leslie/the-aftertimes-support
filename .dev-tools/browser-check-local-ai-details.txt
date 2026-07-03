@@ -1,8 +1,8 @@
 Target: local-ai
-Screenshot: /tmp/aftertimes-support-save-continue-github.png
+Screenshot: /tmp/aftertimes-support-title-credits-github.png
 Responsive set: desktop 1600x900, narrow 1180x900, mobile 390x844
 Additional screenshots:
-  narrow: /tmp/aftertimes-support-save-continue-github-narrow.png
-  mobile: /tmp/aftertimes-support-save-continue-github-mobile.png
-Page: https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md
-Title: the-aftertimes-support/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md at main · elias-leslie/the-aftertimes-support · GitHub
+  narrow: /tmp/aftertimes-support-title-credits-github-narrow.png
+  mobile: /tmp/aftertimes-support-title-credits-github-mobile.png
+Page: https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md
+Title: the-aftertimes-support/REALM1_CREDITS_LICENSES_PROOF.md at main · elias-leslie/the-aftertimes-support · GitHub
