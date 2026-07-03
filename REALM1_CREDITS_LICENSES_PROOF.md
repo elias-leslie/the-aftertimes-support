@@ -4,7 +4,7 @@ Status: **public proof for external legal/store/business review; not legal appro
 
 This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
-- Public review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>
+- Public review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
 - Public license: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Public notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
 - Public security/privacy notes: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/SECURITY.md>
