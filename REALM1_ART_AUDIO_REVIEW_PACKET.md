@@ -21,6 +21,16 @@ Review the running Linux build first, then use these public artifacts for still-
   SHA256 `9e673f4d7a172a79a3e3b1eb40e8dca7291245e64c99656890e4bf0d038e02f3`
 - A-Loom capsule review: <https://a-loom.summitflow.dev/?asset=aftertimes_capsule_family_v1_review&version=ver-d8560b35331e4832b5a49f1056fef725&play=0&zoom=1>
 
+
+## Current public-package runtime visual smoke
+
+Use this current public package screenshot to judge in-build bunker readability/art at gameplay scale before opening separate proof sheets.
+
+- Runtime visual smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
+  SHA256 `7016dafec7e0d96c7ccddf37756bafb15d2977738fe8ed2835fd10f47386e1fd`
+- Runtime path: redownloaded `realm1-review-28b02d4d`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
+- What it shows: current package bunker art at gameplay scale with `Entry`, `Workshop`, `Storage`, HUD, cave backdrop, and tutorial prompt visible.
+
 ## Current internal animation review candidate
 
 This player bunker side-walk packet is public reviewer context only. It is not runtime-wired into the review build.
