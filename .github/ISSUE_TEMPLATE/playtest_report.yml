@@ -1,0 +1,120 @@
+name: External Playtest Report
+description: First-time-player Realm 1 completion QA for The AfterTimes
+labels: ["playtest", "qa"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for an external human playtest. Do not read agent notes or walkthroughs first.
+        Goal: prove whether a new player can reach Realm 1 completion, Earth Remembers, and post-credits closure unaided.
+  - type: input
+    id: tester
+    attributes:
+      label: Tester name or handle
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: OS / hardware / input device
+      placeholder: "Ubuntu 24.04, keyboard+mouse; or Windows 11, controller"
+    validations:
+      required: true
+  - type: input
+    id: artifact
+    attributes:
+      label: Build artifact and hash
+      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09 / zip SHA 5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa"
+    validations:
+      required: true
+  - type: dropdown
+    id: class
+    attributes:
+      label: Starting class
+      options:
+        - Scout
+        - Scavenger
+        - Engineer
+        - Medic
+        - Ranger
+        - Warden
+    validations:
+      required: true
+  - type: dropdown
+    id: outside_help
+    attributes:
+      label: Outside help used?
+      description: A ship-gate PASS requires no walkthrough, agent/dev help, debug inventory, save editing, console commands, or preloaded late-game save.
+      options:
+        - None - fresh unaided run from title menu
+        - In-game UI/journal/credits only
+        - Playtest guide after getting stuck
+        - Agent/dev/walkthrough/debug/save help
+    validations:
+      required: true
+  - type: input
+    id: time_spent
+    attributes:
+      label: Time spent / time to completion
+      placeholder: "2h 15m to Earth Remembers; or 45m blocked before bunker"
+    validations:
+      required: true
+  - type: checkboxes
+    id: milestones
+    attributes:
+      label: Highest milestones reached without help
+      options:
+        - label: Started new game from title/class select
+        - label: Survived at least 2 minutes on surface
+        - label: Found and entered bunker
+        - label: Recruited all 3 NPCs
+        - label: Built at least 7 rooms
+        - label: Crafted reactor parts
+        - label: Completed Geothermal Reactor / Realm 1
+        - label: Opened Return Loop / Earth Remembers credits
+        - label: Heard post-credits crew finale lines
+        - label: Verified title Continue and title Credits/Licenses after ending
+        - label: Saved, quit to title, continued, and verified completion state
+  - type: checkboxes
+    id: pass_bar
+    attributes:
+      label: Ship-gate pass bar
+      description: Check only items you personally verified on this build.
+      options:
+        - label: Fresh run started from title menu with no external help
+        - label: No debug inventory, save editing, console commands, or preloaded late-game save
+        - label: No crash, data loss, missing file, blocking runtime error, or dead-end progression
+        - label: Any remaining clarity/quality issues are minor or explicitly non-blocking
+        - label: Completion state persisted after save, quit to title, and Continue
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Blockers or confusion points
+      description: Include exact moment, visible objective text, and what you tried.
+    validations:
+      required: true
+  - type: textarea
+    id: quality
+    attributes:
+      label: Quality notes
+      description: Combat, survival pressure, controls, readability, story closure, art/animation, audio, save/load trust.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Screenshots/video, logs, crash output, or local telemetry lines if comfortable.
+    validations:
+      required: false
+  - type: dropdown
+    id: verdict
+    attributes:
+      label: Ship-gate verdict from this playtest
+      options:
+        - PASS - completed Earth Remembers/post-credits unaided, only minor notes
+        - FAIL - blocked before Realm 1 completion
+        - FAIL - crash/data loss/runtime error
+        - MIXED - completed but major clarity/quality issue
+    validations:
+      required: true

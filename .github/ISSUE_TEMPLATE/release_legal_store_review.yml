@@ -1,0 +1,76 @@
+name: Release Legal / Store Review
+description: Paid-release legal, store-page, platform-claim, and business-field review for The AfterTimes
+labels: ["release", "legal", "store"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this before publishing any paid Steam/itch.io page or public release. Review the final store copy, launch materials, license/notice text, privacy/telemetry wording, platform claims, pricing/business fields, and proof bundle. Do not put secrets, tax IDs, payout details, or private account data in this issue.
+        Goal: decide whether The AfterTimes can be publicly listed/sold with the current legal/store/business evidence.
+  - type: input
+    id: reviewer
+    attributes:
+      label: Reviewer name or handle
+    validations:
+      required: true
+  - type: input
+    id: platforms
+    attributes:
+      label: Store/platforms reviewed
+      placeholder: "Steam Coming Soon, Steam Early Access, itch.io, Linux-only release"
+    validations:
+      required: true
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Build / proof / store-material bundle reviewed
+      description: Include https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09, zip SHA 5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa, launch-material docs, screenshot/capsule proof paths, A-Loom links, LICENSE/NOTICE/SECURITY links, and draft store-copy links.
+    validations:
+      required: true
+  - type: checkboxes
+    id: legal_store_pass_bar
+    attributes:
+      label: Legal/store pass bar
+      description: Check only items personally verified for the intended platform(s).
+      options:
+        - label: Store description, screenshots, capsules/key art, trailer/copy, tags, and Early Access wording are approved for publication
+        - label: LICENSE, NOTICE, credits/licenses panel, third-party acknowledgements, and copyright/publisher fields are approved
+        - label: Privacy/telemetry wording is approved and accurately says local-only JSONL telemetry/no network analytics
+        - label: Public website/social links and public press/support contact are approved, or publication without them is explicitly approved
+        - label: Platform account, app/page id, tax/payout setup, and release owner are complete outside the repo; no secrets are posted here
+        - label: Pricing, regional pricing, discounts, taxes, and platform fees are approved
+        - label: Platform claims are limited to currently proven runtime evidence, or missing platform QA is explicitly deferred
+        - label: External human QA and art/animation/audio review blockers are either passed or explicitly accepted/deferred for this release
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Must-fix legal/store/business blockers
+      description: List any issue that blocks paid release, including exact copy/asset/field and required owner action.
+    validations:
+      required: true
+  - type: textarea
+    id: deferrals
+    attributes:
+      label: Accepted deferrals or scoped-out claims
+      description: List any missing platform, store, legal, business, or review item explicitly accepted as outside this release.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Store draft URLs, document paths, proof hashes, reviewer notes, legal approval reference, or platform setup status. Do not include secrets.
+    validations:
+      required: true
+  - type: dropdown
+    id: verdict
+    attributes:
+      label: Release legal/store verdict
+      options:
+        - PASS - legal/store/business evidence is approved for the scoped release
+        - FAIL - legal/license/notice/privacy blocker
+        - FAIL - store copy/art/claim blocker
+        - FAIL - platform account/pricing/business-field blocker
+        - MIXED - publish only if listed blockers are accepted/deferred
+    validations:
+      required: true

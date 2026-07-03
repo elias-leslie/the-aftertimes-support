@@ -1,0 +1,93 @@
+name: External Art / Animation / Audio Review
+description: Paid-release critique for The AfterTimes visuals, motion, and sound
+labels: ["qa", "art", "audio"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for an external paid-release quality review. Review the running game and the linked A-Loom/store artifacts; do not rely on static notes alone.
+        Goal: decide whether Realm 1 visuals, animation, UI presentation, music, and SFX can ship as a competitive first-chapter indie release.
+  - type: input
+    id: reviewer
+    attributes:
+      label: Reviewer name or handle
+    validations:
+      required: true
+  - type: input
+    id: artifact
+    attributes:
+      label: Build / proof bundle / A-Loom links reviewed
+      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09; zip SHA 5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa; screenshot/contact proof paths"
+    validations:
+      required: true
+  - type: dropdown
+    id: review_method
+    attributes:
+      label: Review method
+      description: A paid-release PASS requires running-game review plus proof/artifact review, not static screenshots alone.
+      options:
+        - Running game plus A-Loom/store proof reviewed
+        - Running game only
+        - A-Loom/store proof only
+        - Static screenshots/contact sheets only
+    validations:
+      required: true
+  - type: checkboxes
+    id: coverage
+    attributes:
+      label: Areas reviewed
+      options:
+        - label: Title/menu/credits presentation
+        - label: Surface exploration art, weather, lighting, readability
+        - label: Bunker rooms, labels, cave/base visuals, reactor/elevator payoff
+        - label: Player/NPC/enemy animation and silhouette continuity
+        - label: Combat, VFX, hit/miss/readability feedback
+        - label: Story UI, journal, Earth Remembers, post-credits ending
+        - label: Music, ambience, SFX mix, event stingers
+        - label: Store screenshots and capsule/key art
+  - type: checkboxes
+    id: paid_release_pass_bar
+    attributes:
+      label: Paid-release art/audio pass bar
+      description: Check only items personally verified in the running game or linked proofs.
+      options:
+        - label: Running game was reviewed at gameplay scale for title, surface, bunker, Return Loop, Earth Remembers, credits, and post-credits flow
+        - label: A-Loom/store artifacts were reviewed for screenshots, capsule/key art, and current proof hashes
+        - label: Player/NPC/enemy locomotion and action loops are release-acceptable, or any exceptions are explicitly listed as accepted deferrals
+        - label: UI, HUD, journal, controls, credits/licenses, and ending copy are readable without debug/placeholder presentation
+        - label: Music, ambience, SFX, event stingers, blocked/success feedback, and volume controls are release-acceptable
+        - label: No visible placeholder/debug shapes, weak store-page screenshots, or misleading art/platform claims remain unaccepted
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Must-fix release blockers
+      description: List any visual, animation, UI, audio, or store-art issue that would block paid release.
+    validations:
+      required: true
+  - type: textarea
+    id: polish
+    attributes:
+      label: Non-blocking polish notes
+      description: List improvements that would help but should not block a first-chapter release.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Screenshots, video timestamps, A-Loom review URLs, audio notes, or exact scene/room/realm names.
+    validations:
+      required: true
+  - type: dropdown
+    id: verdict
+    attributes:
+      label: Paid-release art/audio verdict
+      options:
+        - PASS - release quality for Realm 1 first chapter
+        - FAIL - visual/art blockers
+        - FAIL - animation/motion blockers
+        - FAIL - audio/music/SFX blockers
+        - FAIL - store art/screenshot blockers
+        - MIXED - shippable only if listed blockers are accepted/deferred
+    validations:
+      required: true
