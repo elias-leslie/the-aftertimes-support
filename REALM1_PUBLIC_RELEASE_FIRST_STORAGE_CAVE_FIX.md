@@ -4,12 +4,12 @@ Status: current public review package published; public redownload smoke passed;
 
 Current public review build:
 
-- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
-- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
-- Runtime/export commit: `28b02d4d956256df5372f598c6bcd3f9b0e11b14`
+- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
+- Runtime/export commit: `a5392e7c`
 - Linux executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
-- Godot pack SHA256: `361db6d98ba211ffd5e1a769bb5867fc2b5bd161abeaf298616bafae463e0fac`
+- Godot pack SHA256: `32a7d59ab5b556f0afc8725364f8f237ba9a39ca6ecd5d741222eaaa249689da`
 
 Why this refresh exists:
 
@@ -19,11 +19,11 @@ Why this refresh exists:
 
 Public package smoke:
 
-- Public zip redownloaded from the release URL and matched SHA256 `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`.
+- Public zip redownloaded from the release URL and matched SHA256 `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
 - Redownloaded package headless smoke passed.
 - Redownloaded package UI smoke reached title, class select, surface, bunker entry, then pressed `B` and built `Storage`.
 - Public first-build screenshot: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-first-build-after-storage-fix.png>
-- Public first-build screenshot SHA256: `f2549a765945490930e9a49759b8efa8c6afdee853c6792727bf41b3656f6438`
+- Public first-build screenshot SHA256: `0cc0742075f512451e6af54c3c68971f2a41e7a4df57f8007d0b90d7cec99389`
 
 Result proven by the source/runtime fix: when an unrepaired ancient cave chamber is selected, pressing `B` for the first build creates `Storage` and leaves the damaged cave unconverted.
 

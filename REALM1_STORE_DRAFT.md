@@ -6,7 +6,7 @@ This page mirrors the current non-secret launch/store copy from the game repo so
 
 Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 
-Current review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
+Current review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 Public review status: <https://elias-leslie.github.io/the-aftertimes-support/#review-status>  
 Legal/store review form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml>
 

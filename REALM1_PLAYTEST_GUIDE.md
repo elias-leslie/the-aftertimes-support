@@ -15,10 +15,10 @@ craft reactor parts, steady the Geothermal Reactor, save, quit, and continue.
 
 Public review package:
 
-- Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
-- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
-- Runtime/export commit: `28b02d4d`
+- Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
+- Runtime/export commit: `a5392e7c`
 
 Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted folder.
 
@@ -29,13 +29,13 @@ Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted fold
 Download and extract the public Linux review zip, then run:
 
 ```bash
-sha256sum the-aftertimes-realm1-linux-28b02d4d.zip
-unzip the-aftertimes-realm1-linux-28b02d4d.zip
+sha256sum the-aftertimes-realm1-linux-a5392e7c.zip
+unzip the-aftertimes-realm1-linux-a5392e7c.zip
 chmod +x the-aftertimes.x86_64
 ./the-aftertimes.x86_64
 ```
 
-The hash should print `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`.
+The hash should print `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
 
 Public Windows/macOS/web/mobile packages are not part of this review packet; judge the Linux build above.
 

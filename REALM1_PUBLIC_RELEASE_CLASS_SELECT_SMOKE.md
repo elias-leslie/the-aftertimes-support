@@ -4,14 +4,14 @@ Status: public release title-to-class-select UI smoke proof. This does **not** r
 
 Verified on 2026-07-03 from the public support-repo release zip after redownload and SHA check:
 
-- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
-- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
-- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
+- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
 - Executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
-- PCK SHA256: `361db6d98ba211ffd5e1a769bb5867fc2b5bd161abeaf298616bafae463e0fac`
+- PCK SHA256: `32a7d59ab5b556f0afc8725364f8f237ba9a39ca6ecd5d741222eaaa249689da`
 - Title screenshot SHA256 before input: `01f6c793a1c28810f8b7c2abcb58bcec4a2b55681ee9403cd06678a0924d552e`
 - Class-select screenshot: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-class-select-ui-smoke.png>
-- Class-select screenshot SHA256: `5a258eb8f91365dbbd4eaed316034be92f51f5ae30115b86f0de3339a6590836`
+- Class-select screenshot SHA256: `25e28b20e5ec5030330b178e806dd9791fd68116b09e73545fe2c139d1f927e4`
 - Runtime mode: launched the extracted public Linux executable under Xvfb at 1280x720, pressed `Enter` on `Wake the Shelter`, and captured the visible class-select screen.
 
 ![Public release class select UI smoke](public-release-class-select-ui-smoke.png)

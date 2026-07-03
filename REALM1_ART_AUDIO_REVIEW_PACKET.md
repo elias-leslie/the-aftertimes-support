@@ -6,9 +6,9 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Build under review
 
-- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
-- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
+- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
 - Scope: prerelease external-review package, not a public paid launch.
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_STORAGE_CAVE_FIX.md>
 - Automated no-injection completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
@@ -16,7 +16,7 @@ Review the running Linux build first, then use these public artifacts for still-
 ## Visual and store-art artifacts
 
 - Launch screenshot contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>  
-  SHA256 `51420827db8a5e66588ad7c5dedd109e8d9ea19fd80ec0392546614a91315848`
+  SHA256 `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`
 - Capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>  
   SHA256 `9e673f4d7a172a79a3e3b1eb40e8dca7291245e64c99656890e4bf0d038e02f3`
 - A-Loom capsule review: <https://a-loom.summitflow.dev/?asset=aftertimes_capsule_family_v1_review&version=ver-d8560b35331e4832b5a49f1056fef725&play=0&zoom=1>
@@ -28,7 +28,7 @@ Use this current public package screenshot to judge in-build bunker readability/
 
 - Runtime visual smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
   SHA256 `7016dafec7e0d96c7ccddf37756bafb15d2977738fe8ed2835fd10f47386e1fd`
-- Runtime path: redownloaded `realm1-review-28b02d4d`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
+- Runtime path: redownloaded `realm1-review-a5392e7c`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
 - What it shows: current package bunker art at gameplay scale with `Entry`, `Workshop`, `Storage`, HUD, cave backdrop, and tutorial prompt visible.
 
 ## Current internal animation review candidate

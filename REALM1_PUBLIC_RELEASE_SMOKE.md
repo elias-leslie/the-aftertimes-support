@@ -4,10 +4,10 @@ Status: public release asset integrity and runtime smoke proof. This does **not*
 
 Verified on 2026-07-03 from the public support-repo release URL:
 
-- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
-- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
-- Expected SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
-- Actual SHA256 after redownload: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
+- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Expected SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
+- Actual SHA256 after redownload: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
 - Extracted files: `the-aftertimes.x86_64`, `the-aftertimes.pck`, `build_manifest.json`, `REALM1_PLAYTEST_GUIDE.md`, `PLAYTEST_BUILD.md`, `README-LINUX-REVIEW.txt`
 - Runtime smoke command: `./the-aftertimes.x86_64 --headless --quit-after 60`
 - Runtime smoke result: `PASS`

@@ -17,7 +17,7 @@ body:
     id: artifact
     attributes:
       label: Build / proof bundle / A-Loom links reviewed
-      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d; zip SHA 5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33; screenshot/contact proof paths"
+      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c; zip SHA 4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e; screenshot/contact proof paths"
     validations:
       required: true
   - type: dropdown
