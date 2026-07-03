@@ -8,6 +8,13 @@ Public support and release-review contact point for **The AfterTimes**.
 - Security/privacy notes: <https://github.com/elias-leslie/the-aftertimes/blob/main/SECURITY.md>
 - License notice: <https://github.com/elias-leslie/the-aftertimes/blob/main/NOTICE>
 
+Current public review build:
+
+- Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-d3fc7d09/the-aftertimes-realm1-linux-d3fc7d09.zip>
+- SHA256: `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`
+- Scope: prerelease external-review package, not a public paid launch.
+
 For playtest feedback, art/audio review notes, store/legal review notes, or launch-support questions, open an issue here and include the build hash or review package URL you used.
 
 Review builds may write local-only JSONL playtest events for player deaths, room builds, and reactor completions. No network analytics are sent. Do not post secrets, private account information, tax/payment details, unreleased credentials, or unredacted local logs/paths.
