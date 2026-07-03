@@ -5,8 +5,9 @@ Public support and release-review contact point for **The AfterTimes**.
 - Public support page: <https://elias-leslie.github.io/the-aftertimes-support/>
 - Game repository: <https://github.com/elias-leslie/the-aftertimes>
 - Support/issues: <https://github.com/elias-leslie/the-aftertimes-support/issues>
-- Security/privacy notes: <https://github.com/elias-leslie/the-aftertimes/blob/main/SECURITY.md>
-- License notice: <https://github.com/elias-leslie/the-aftertimes/blob/main/NOTICE>
+- Security/privacy notes: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/SECURITY.md>
+- License: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
+- Notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
 
 Current public review build:
 
