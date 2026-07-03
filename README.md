@@ -15,6 +15,12 @@ Current public review build:
 - SHA256: `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`
 - Scope: prerelease external-review package, not a public paid launch.
 
+Run on Linux:
+
+1. Download the Linux review zip.
+2. Optional hash check: `sha256sum the-aftertimes-realm1-linux-d3fc7d09.zip` should print `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`.
+3. Unzip it, keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same folder, then run: `chmod +x the-aftertimes.x86_64 && ./the-aftertimes.x86_64`.
+
 Public review forms:
 
 - External QA playtest report: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
