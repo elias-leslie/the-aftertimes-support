@@ -168,6 +168,9 @@ If a tester cannot find the folder, search their machine for
 
 Telemetry is local-only JSONL. No network analytics are sent.
 
+Public telemetry/redaction guide:
+<https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_TELEMETRY_REVIEW_GUIDE.md>
+
 File:
 
 ```text
