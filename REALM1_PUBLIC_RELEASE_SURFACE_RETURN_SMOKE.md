@@ -4,14 +4,14 @@ Status: public release first-build-to-surface-return UI smoke proof. This does *
 
 Verified on 2026-07-03 from the public support-repo release zip after redownload and SHA check:
 
-- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>
-- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-d3fc7d09/the-aftertimes-realm1-linux-d3fc7d09.zip>
-- Zip SHA256: `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`
+- Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
+- Asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
+- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
 - Executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
-- PCK SHA256: `6c5ef6daebfa5b7b3701d750cac1203bac023cafbc9ec4f98fac34e7a0f1d0f8`
-- Built-Storage screenshot SHA256 before return: `6d638e614024b040c2522a7bdbe54e96264ef217c0e4eb824874eaa6fbf1cd28`
+- PCK SHA256: `361db6d98ba211ffd5e1a769bb5867fc2b5bd161abeaf298616bafae463e0fac`
+- Built-Storage screenshot SHA256 before return: `bdcf97b90f031d4bb0e944efcb3ebdb69d4e6cf38b99106bdf23cc134b5e2cca`
 - Surface-return screenshot: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-return-ui-smoke.png>
-- Surface-return screenshot SHA256: `023a77af4317bed6ff1540adeb7f4c741b84e99d7ad37c5149f6fae8747579b6`
+- Surface-return screenshot SHA256: `f6bda3d24861c00f1a9c9216eb76277cac3e63aa35b287cb96aab207ab39a2c5`
 - Runtime mode: launched the extracted public Linux executable under Xvfb at 1280x720 from a fresh temp profile, used keyboard input to reach playable bunker UI, built Storage with `B`, pressed `R` to return to the surface, waited for the transition, and captured surface gameplay.
 
 ![Public release surface return UI smoke](public-release-surface-return-ui-smoke.png)
