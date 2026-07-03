@@ -6,10 +6,10 @@ Use this as reviewer context that the current build has a proven complete path, 
 
 ## Build under review
 
-- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-d3fc7d09/the-aftertimes-realm1-linux-d3fc7d09.zip>
-- Zip SHA256: `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`
-- Runtime/export commit: `d3fc7d09`
+- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
+- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
+- Runtime/export commit: `28b02d4d`
 - Scope: prerelease external-review package, not a public paid launch.
 
 ## What the scripted proof covers
@@ -21,7 +21,7 @@ It does **not** use debug inventory, save editing, console commands, or a preloa
 ## Public artifact
 
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>  
-  SHA256 `cea5cd6d022d2e4267717a4b7dac5448821425fe044bb8de9551d2ef7223a57f`
+  SHA256 `0ed9fd9cf9005bfed293fb4ee88ace1d559ceffbf5d4c58b9bef5b4f8322114d`
 
 ## Key milestones verified
 
