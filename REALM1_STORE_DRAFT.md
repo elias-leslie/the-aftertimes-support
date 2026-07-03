@@ -4,6 +4,8 @@ Status: **draft for external legal/store/business review; not approved for paid 
 
 This page mirrors the current non-secret launch/store copy from the game repo so reviewers can check store description, tags, Early Access wording, trailer outline, pricing rationale, and known blockers without private repo access. Do not treat this as a live store page approval.
 
+Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
+
 Current review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>  
 Public review status: <https://elias-leslie.github.io/the-aftertimes-support/#review-status>  
 Legal/store review form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml>
