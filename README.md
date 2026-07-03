@@ -36,6 +36,12 @@ Public review forms:
 - Art / animation / audio review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>
 - Legal / store / business review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml>
 
+Public blocker trackers:
+
+- External QA verdict tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/1>
+- Art / animation / audio verdict tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2>
+- Legal / store / business verdict tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>
+
 Current external release gates:
 
 - External QA: open until a fresh unaided completion playtest reports PASS, or an accepted MIXED/deferral, through the playtest form.
