@@ -1,0 +1,34 @@
+name: The AfterTimes support / review note
+description: Public support, review, or release-readiness note for The AfterTimes.
+title: "Support: "
+labels: [support]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reviewing The AfterTimes. Do not post secrets, tax/payment info, or private platform account data.
+  - type: input
+    id: build
+    attributes:
+      label: Build or proof bundle
+      description: Paste the build hash, release URL, or proof bundle path you reviewed.
+      placeholder: "realm1-review-d3fc7d09 / docs/PLAYTEST_REPORTS/..."
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Playtest / progression
+        - Art / animation / audio
+        - Store / legal / business
+        - Technical support
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: What happened? What should change? Include screenshots, logs, or exact visible text when useful.
+    validations:
+      required: true
