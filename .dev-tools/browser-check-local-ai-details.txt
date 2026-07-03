@@ -1,8 +1,8 @@
 Target: local-ai
-Screenshot: /tmp/aftertimes-support-title-credits-github.png
+Screenshot: /tmp/aftertimes-support-art-audio-visual-page.png
 Responsive set: desktop 1600x900, narrow 1180x900, mobile 390x844
 Additional screenshots:
-  narrow: /tmp/aftertimes-support-title-credits-github-narrow.png
-  mobile: /tmp/aftertimes-support-title-credits-github-mobile.png
-Page: https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md
-Title: the-aftertimes-support/REALM1_CREDITS_LICENSES_PROOF.md at main · elias-leslie/the-aftertimes-support · GitHub
+  narrow: /tmp/aftertimes-support-art-audio-visual-page-narrow.png
+  mobile: /tmp/aftertimes-support-art-audio-visual-page-mobile.png
+Page: https://elias-leslie.github.io/the-aftertimes-support/#art-audio
+Title: The AfterTimes Support
