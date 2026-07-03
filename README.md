@@ -31,6 +31,12 @@ Public review forms:
 - Art / animation / audio review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>
 - Legal / store / business review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml>
 
+Current external release gates:
+
+- External QA: open until a fresh unaided completion playtest reports PASS, or an accepted MIXED/deferral, through the playtest form.
+- Art / animation / audio: open until running-game plus artifact review reports PASS, or an accepted MIXED/deferral, through the art/audio form.
+- Legal / store / business: open until store/legal/platform/pricing fields are approved, or accepted deferrals are listed, through the legal/store form.
+
 For playtest feedback, art/audio review notes, store/legal review notes, or launch-support questions, open an issue here and include the build hash or review package URL you used.
 
 Review builds may write local-only JSONL playtest events for player deaths, room builds, and reactor completions. No network analytics are sent. Do not post secrets, private account information, tax/payment details, unreleased credentials, or unredacted local logs/paths.
