@@ -6,15 +6,17 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Build under review
 
-- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-d3fc7d09>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-d3fc7d09/the-aftertimes-realm1-linux-d3fc7d09.zip>
-- Zip SHA256: `5bfc0816d402dd94bfe0db16a36d283a55b63328581cc8a29f3b94245eb425fa`
+- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-28b02d4d>
+- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-28b02d4d/the-aftertimes-realm1-linux-28b02d4d.zip>
+- Zip SHA256: `5edeb25c0f80cd2a8a84fd061c790acadf31a9da04c86cb4b5a337bdfa5b4e33`
 - Scope: prerelease external-review package, not a public paid launch.
+- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_STORAGE_CAVE_FIX.md>
+- Automated no-injection completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 
 ## Visual and store-art artifacts
 
 - Launch screenshot contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>  
-  SHA256 `71389069f526bacd218ba6f7232fd8412246fc07f7f777039ba8a7930e135b09`
+  SHA256 `51420827db8a5e66588ad7c5dedd109e8d9ea19fd80ec0392546614a91315848`
 - Capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>  
   SHA256 `9e673f4d7a172a79a3e3b1eb40e8dca7291245e64c99656890e4bf0d038e02f3`
 - A-Loom capsule review: <https://a-loom.summitflow.dev/?asset=aftertimes_capsule_family_v1_review&version=ver-d8560b35331e4832b5a49f1056fef725&play=0&zoom=1>
