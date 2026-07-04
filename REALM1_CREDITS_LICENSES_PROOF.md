@@ -21,8 +21,8 @@ This page mirrors current runtime proof for the title Credits / Licenses panel a
 
 ## Public package smoke
 
-- Public title Credits smoke report: `docs/PLAYTEST_REPORTS/2026-07-03-public-review-release-title-credits-smoke-v1.md` in the game repo.
-- Runtime path: redownloaded current public zip, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, then closed it.
+- Public title Credits smoke report: `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-title-credits-after-tutorial-storage-mira-prompt-v1.md` in the game repo.
+- Runtime path: redownloaded current public zip on 2026-07-04, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, then closed it.
 - Result: title Credits / Licenses panel opened and closed from the current public package with no runtime errors beyond the known Xvfb V-Sync warning.
 
 ## Source evidence
