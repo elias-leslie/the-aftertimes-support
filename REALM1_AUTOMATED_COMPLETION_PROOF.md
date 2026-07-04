@@ -21,7 +21,7 @@ It does **not** use debug inventory, save editing, console commands, or a preloa
 ## Public artifact
 
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>  
-  SHA256 `0ed9fd9cf9005bfed293fb4ee88ace1d559ceffbf5d4c58b9bef5b4f8322114d`
+  SHA256 `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`
 
 ## Key milestones verified
 
