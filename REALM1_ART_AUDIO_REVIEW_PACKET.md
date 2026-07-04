@@ -27,7 +27,7 @@ Review the running Linux build first, then use these public artifacts for still-
 Use this current public package screenshot to judge in-build bunker readability/art at gameplay scale before opening separate proof sheets.
 
 - Runtime visual smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
-  SHA256 `7016dafec7e0d96c7ccddf37756bafb15d2977738fe8ed2835fd10f47386e1fd`
+  SHA256 `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`
 - Runtime path: redownloaded `realm1-review-a5392e7c`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
 - What it shows: current package bunker art at gameplay scale with `Entry`, `Workshop`, `Storage`, HUD, cave backdrop, and tutorial prompt visible.
 

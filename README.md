@@ -29,7 +29,7 @@ Current public review build:
 - Public launch screenshot contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>
 - Public capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>
 - Public art / audio review packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
-  - Includes current public-package runtime visual smoke SHA `7016dafec7e0d96c7ccddf37756bafb15d2977738fe8ed2835fd10f47386e1fd`.
+  - Includes current public-package runtime visual smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
