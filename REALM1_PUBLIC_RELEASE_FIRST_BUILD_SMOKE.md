@@ -16,6 +16,6 @@ Verified on 2026-07-03 from the public support-repo release zip after redownload
 
 ![Public release first build UI smoke](public-release-first-build-ui-smoke.png)
 
-Visible result: the published public release asset builds the first Storage room and renders `Rooms: 3`, `Storage`, `Built Storage in the middle bunker bay.`, and the post-build objective `Return to the surface and find Mira.`
+Visible result: the published public release asset builds the first Storage room and renders `Rooms: 3`, `Storage`, `Built Storage in the middle bunker bay.`, and the post-build objective `Return to the surface and scout for Mira. Her arrow appears once her shelter is explored.`
 
 Reviewers should still run the game normally and submit verdicts through the public tracker issues. Paid launch remains blocked until the public trackers record PASS or accepted MIXED/deferral decisions.
