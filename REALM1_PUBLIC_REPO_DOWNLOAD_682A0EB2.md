@@ -63,27 +63,28 @@ need private/source-repo access.
   public support raw fetch `67e1053a0f041f8e5280609723c8b39ccf8e6d4eb3754b098d29cfbb5ce9fa6a`,
   browser check `de4fccf505f33ca51bcd1b8a6e19f8666ac4a9a2b5583576bf5f5cbc73573658`.
 
-## Public runtime basic-smoke lineage
+## Public runtime basic-smoke proof
 
-The current `682a0eb2` ZIP has package-level headless and visible pause-menu
-proof above. The public title/class-select/gameplay/first-build/surface/save
-smoke screenshots below remain the prior source-fresh `35a52259` lineage until
-those longer public smokes are refreshed on `682a0eb2`; use them only as
-supplemental context, not as a substitute for running the current ZIP.
+The current `682a0eb2` ZIP now has both package-level headless/pause-menu proof
+and visible title/class-select/gameplay/first-build/surface-return/movement
+smoke screenshots from a public redownload of this same ZIP.
 
-- Prior public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
+- Public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
   screenshot SHA256 `01f6c793a1c28810f8b7c2abcb58bcec4a2b55681ee9403cd06678a0924d552e`.
-- Prior public class-select smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_CLASS_SELECT_SMOKE.md>
-  screenshot SHA256 `1d3a7234972d0586a1b2f188b2e80bbacdc666fb4e6816a22bba311b2dbd6e94`.
-- Prior public surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>
-  screenshot SHA256 `5c0bfa073f9919792e1085f001a725b71219c457484a00985396d9ccde3b8bd2`.
-- Prior public first-Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>
-  screenshot SHA256 `201849b1368e06ebdbe3946c286312ea959e76f741aadf6517b782d57789fb88`.
-- Prior public surface-return smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_RETURN_SMOKE.md>
-  screenshot SHA256 `7836d3f526b71ca682b9bc9aa0d44ff979fc3b2b115d11f6dccbe2b8d858a9dd`.
-- Prior public surface-movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
-  screenshot SHA256 `6efb01da9b025a97c1e0431f732fdd8357073e27aa838ec8d74cf0e1851f163b`.
-- Prior public save/Continue proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
+- Public class-select smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_CLASS_SELECT_SMOKE.md>
+  screenshot SHA256 `e5ae3082f76632867e2ebf4c8b908e4a61f6028b90733cb1246de24dd750b807`.
+- Public surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>
+  screenshot SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`.
+- Public first-Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>
+  screenshot SHA256 `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`.
+- Public surface-return smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_RETURN_SMOKE.md>
+  screenshot SHA256 `7328b786e79561dffa132fa8f46e597a666447247f4dbe9a52f5af97e28d6e8c`.
+- Public surface-movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
+  screenshot SHA256 `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`.
+- Public basic-smoke contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-basic-smokes-682a0eb2-contact.png>
+  contact SHA256 `7131503a5128475fd0e4f8d6a42c55fc732aac57a6c9d0969857110205ea5f7c`.
+- Prior public save/Continue proof remains `35a52259` lineage until refreshed on
+  `682a0eb2`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>,
   screenshot SHA256 `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
 
 ## Run on Linux

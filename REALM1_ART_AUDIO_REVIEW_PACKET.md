@@ -37,20 +37,21 @@ player-facing `Return to Surface` label.
   pause opened by player input, Controls row selected, visible row reads
   `Return to Surface = R`.
 
-The public title/class-select/gameplay/first-build/surface/save screenshots
-below remain the prior source-fresh `35a52259` public runtime-smoke lineage until
-those longer smokes are refreshed on `682a0eb2`; use them only as supplemental
-context, not as a substitute for running the current ZIP.
+The title/class-select/gameplay/first-build/surface-return/surface-movement
+smokes below are current `682a0eb2` public runtime-smoke proofs from a fresh
+redownload of this ZIP. Save/Continue remains prior `35a52259` lineage until
+refreshed on `682a0eb2`; use it only as supplemental context, not as a substitute
+for running the current ZIP.
 
-- Prior surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
-  SHA256 `5c0bfa073f9919792e1085f001a725b71219c457484a00985396d9ccde3b8bd2`
-- Prior first Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-first-build-ui-smoke.png>
-  SHA256 `201849b1368e06ebdbe3946c286312ea959e76f741aadf6517b782d57789fb88`
-- Prior surface movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-movement-ui-smoke.png>
-  SHA256 `6efb01da9b025a97c1e0431f732fdd8357073e27aa838ec8d74cf0e1851f163b`
+- Current surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
+  SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`
+- Current first Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-first-build-ui-smoke.png>
+  SHA256 `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`
+- Current surface movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-movement-ui-smoke.png>
+  SHA256 `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`
 - Prior save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
   SHA256 `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`
-- Prior 35a runtime path: redownloaded repo-hosted package `35a52259`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, moved on the surface, and separately proved save/Continue persistence.
+- Current 682a0eb2 runtime path: redownloaded repo-hosted package `682a0eb2`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, and moved on the surface. Save/Continue remains prior `35a52259` lineage until refreshed.
 
 ## Current internal animation review candidate
 
