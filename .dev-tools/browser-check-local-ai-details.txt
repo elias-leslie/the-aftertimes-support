@@ -1,8 +1,8 @@
 Target: local-ai
-Screenshot: /tmp/aftertimes-support-store-draft-page.png
+Screenshot: /tmp/aftertimes-support-release-scope-page.png
 Responsive set: desktop 1600x900, narrow 1180x900, mobile 390x844
 Additional screenshots:
-  narrow: /tmp/aftertimes-support-store-draft-page-narrow.png
-  mobile: /tmp/aftertimes-support-store-draft-page-mobile.png
-Page: https://elias-leslie.github.io/the-aftertimes-support/#store-draft
+  narrow: /tmp/aftertimes-support-release-scope-page-narrow.png
+  mobile: /tmp/aftertimes-support-release-scope-page-mobile.png
+Page: https://elias-leslie.github.io/the-aftertimes-support/#release-scope
 Title: The AfterTimes Support
