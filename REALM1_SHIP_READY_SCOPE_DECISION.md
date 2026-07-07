@@ -20,6 +20,7 @@ This is not a Steam/itch paid-store publication approval. Steam, itch, GitHub Re
 - Support proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>.
 - Support ship-scope proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>.
 - Support tag: `realm1-linux-b1e41bab`.
+- Issue #3 closure proof: main <https://github.com/elias-leslie/the-aftertimes/issues/3> and support <https://github.com/elias-leslie/the-aftertimes-support/issues/3> are closed completed for this scope as of 2026-07-07T19:18Z.
 
 ## Gate audit
 
