@@ -1,11 +1,11 @@
 # Realm 1 Public Playtest Guide
 
 Source guide date: 2026-06-18  
-Public support copy: 2026-07-03  
+Public support copy: 2026-07-07
 Build target: Realm 1 / **The AfterTimes** public Linux review package  
 Status: **pre-QA playtest candidate, not ship-ready**
 
-Current scope note, 2026-07-03: this public guide targets the Linux review package linked below. Windows/macOS/web/mobile are not part of this public packet.
+Current scope note, 2026-07-07: this public guide targets the source-fresh repo-hosted Linux review package linked below. The GitHub Release asset `realm1-review-a5392e7c` is superseded for new review until release-asset publication catches up. Windows/macOS/web/mobile are not part of this public packet.
 
 Use this guide to test the first-chapter loop: choose a survivor, explore the
 irradiated surface, find/enter the bunker, build rooms, recruit specialists,
@@ -15,10 +15,13 @@ craft reactor parts, steady the Geothermal Reactor, save, quit, and continue.
 
 Public review package:
 
-- Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
-- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
-- Runtime/export commit: `a5392e7c`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
+- Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Zip SHA256: `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`
+- ZIP bytes: `63,381,905`
+- Runtime/export commit: `35a52259`
 
 Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted folder.
 
@@ -29,13 +32,13 @@ Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted fold
 Download and extract the public Linux review zip, then run:
 
 ```bash
-sha256sum the-aftertimes-realm1-linux-a5392e7c.zip
-unzip the-aftertimes-realm1-linux-a5392e7c.zip
+sha256sum the-aftertimes-realm1-linux-35a52259.zip
+unzip the-aftertimes-realm1-linux-35a52259.zip
 chmod +x the-aftertimes.x86_64
 ./the-aftertimes.x86_64
 ```
 
-The hash should print `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+The hash should print `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
 
 Public Windows/macOS/web/mobile packages are not part of this review packet; judge the Linux build above.
 

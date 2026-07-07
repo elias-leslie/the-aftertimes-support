@@ -9,46 +9,52 @@ Public support and release-review contact point for **The AfterTimes**.
 - License: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
 
-Current public review build:
+Current source-fresh public review package:
 
-- Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
 - Public playtest guide: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PLAYTEST_GUIDE.md>
 - Public automated completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
-- Public release redownload smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SMOKE.md>
-- Public release UI smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
-- Public release class-select smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_CLASS_SELECT_SMOKE.md>
-- Public release gameplay-entry smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>
-- Public release first-build smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>
-- Public release Storage -> Mira prompt smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_STORAGE_MIRA_PROMPT_SMOKE.md>
+- Public release redownload smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SMOKE.md>
+- Public release UI smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
+- Public release class-select smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_CLASS_SELECT_SMOKE.md>
+- Public release gameplay-entry smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>
+- Public release first-build smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>
+- Public release Storage -> Mira prompt smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_STORAGE_MIRA_PROMPT_SMOKE.md>
 - Public first-Storage unrepaired-cave fix proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_STORAGE_CAVE_FIX.md>
-- Public release surface-return smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_RETURN_SMOKE.md>
-- Public release surface-movement smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
-- Public release save/continue smoke proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
+- Public release surface-return smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_RETURN_SMOKE.md>
+- Public release surface-movement smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
+- Public release save/continue smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
 - Public telemetry review guide: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_TELEMETRY_REVIEW_GUIDE.md>
 - Public launch screenshot contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>
 - Public capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>
 - Public art / audio review packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
-  - Includes current public-package runtime visual smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
+  - Includes public-package runtime visual smoke from the superseded release asset plus source-fresh launch contact proof for `35a52259`.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
-  - Includes the current a539 evidence snapshot: Linux zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`, launch contact SHA `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`, automated completion contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`, save/Continue smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`, surface-movement smoke SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`, and title Credits smoke SHA `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
+  - Includes the current `35a52259` package snapshot: Linux zip SHA `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`, launch contact SHA `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`, automated completion contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`, save/Continue smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`, surface-movement smoke SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`, and title Credits smoke SHA `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
   - Proposed paid-release scope, if reviewers approve: Realm 1 / first-chapter Early Access, Linux-only platform claims, GitHub Pages/issues as public support route, local-only JSONL/no-network telemetry wording, and explicit deferrals for Windows runtime, macOS, web, mobile, multiplayer, Realms 2-6, dedicated press inbox/social links, and private platform/tax/payout details.
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
-  - Credits proof page references current public package `realm1-review-a5392e7c`.
+  - Credits proof page references the superseded GitHub Release asset `realm1-review-a5392e7c`; legal panels are unchanged in `35a52259`.
   - Title Credits public-package smoke SHA: `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
-- SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
+- Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Superseded GitHub Release Linux zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
+- Current ZIP SHA256: `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`
+- Current ZIP bytes: `63,381,905`
+- Runtime/export commit: `35a52259`
 - Scope: prerelease external-review package, not a public paid launch.
+- Release-asset note: use the repo-hosted `35a52259` ZIP for new source-fresh review while GitHub Release asset publication is pending.
 
 Run on Linux:
 
-1. Download the Linux review zip.
-2. Optional hash check: `sha256sum the-aftertimes-realm1-linux-a5392e7c.zip` should print `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+1. Download the repo-hosted Linux review zip.
+2. Optional hash check: `sha256sum the-aftertimes-realm1-linux-35a52259.zip` should print `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
 3. Unzip it, keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same folder, then run: `chmod +x the-aftertimes.x86_64 && ./the-aftertimes.x86_64`.
 
 Public review forms:
 
-Review form placeholders use the current public package `realm1-review-a5392e7c` and zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+Review form placeholders use the current source-fresh repo-hosted package `35a52259` and zip SHA `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
 
 - External QA playtest report: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
 - Art / animation / audio review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>

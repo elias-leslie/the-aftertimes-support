@@ -6,17 +6,23 @@ This page mirrors the current non-secret launch/store copy from the game repo so
 
 Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 
-Current review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
+Superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 Public review status: <https://elias-leslie.github.io/the-aftertimes-support/#review-status>
 Legal/store review form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml>
 
 Current public evidence snapshot:
 
 - Linux review zip SHA256:
-  `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+  `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
+- Linux review zip bytes: `63,381,905`.
+- Runtime/export commit: `35a52259`.
+- Source-fresh package proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>.
 - Launch screenshot contact sheet:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>
-  SHA256 `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`.
+  SHA256 `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
 - Automated no-injection completion contact:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
   SHA256 `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
@@ -211,17 +217,17 @@ the surface unlivable.
 These fields are release blockers, not copywriting tasks. Do not guess values or
 publish invented or unapproved links.
 
-Latest repo evidence refreshes now point at the current `realm1-review-a5392e7c`
+Latest repo evidence refreshes now point at the current repo-hosted `35a52259`
 package line and public support proofs:
 
 - Current Linux export / launch screenshot proof:
-  `docs/PLAYTEST_REPORTS/2026-07-03-current-review-export-after-tutorial-storage-mira-prompt-v1.md`;
+  `docs/PLAYTEST_REPORTS/2026-07-07-current-review-export-after-duplicate-room-plan-hud-copy-v1.md`;
   contact sheet
-  `docs/visual_proofs/2026-07-03-current-review-export-after-tutorial-storage-mira-prompt-v1/launch-screenshots-v2-contact.png`;
-  SHA `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`.
+  `docs/visual_proofs/2026-07-07-review-export-after-duplicate-room-plan-hud-copy-v1/launch-screenshots-v2-contact.png`;
+  SHA `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
 - Current public review package:
-  `docs/PLAYTEST_REPORTS/2026-07-03-public-review-release-after-tutorial-storage-mira-prompt-v1.md`;
-  zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+  `docs/PLAYTEST_REPORTS/2026-07-07-public-repo-download-35a52259-v1.md`;
+  zip SHA `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
 - Current public automated completion proof:
   `docs/PLAYTEST_REPORTS/2026-07-03-public-automated-completion-proof-after-tutorial-storage-mira-prompt-v1.md`;
   contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
