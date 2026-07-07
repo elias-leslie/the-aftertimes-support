@@ -29,7 +29,7 @@ Current public evidence snapshot:
 - Save/Continue public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256
-  `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
+  `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
 - Surface return/movement public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
   movement screenshot SHA256
@@ -232,9 +232,9 @@ package line and public support proofs:
   `docs/PLAYTEST_REPORTS/2026-07-03-public-automated-completion-proof-after-tutorial-storage-mira-prompt-v1.md`;
   contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
 - Current public save/Continue proof:
-  `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-save-continue-after-tutorial-storage-mira-prompt-v1.md`;
+  `docs/PLAYTEST_REPORTS/2026-07-07-public-review-release-save-continue-35a52259-v1.md`;
   loaded-bunker screenshot SHA
-  `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
+  `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
 - Current public surface-return/movement proof:
   `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-surface-movement-after-tutorial-storage-mira-prompt-v1.md`;
   return SHA `1e368d416d4c201352812bb45afc328cfefac27a7f2fb88b80343641ba861667`;

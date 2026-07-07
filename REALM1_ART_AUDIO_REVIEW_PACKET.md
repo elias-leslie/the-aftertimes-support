@@ -27,12 +27,12 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Current public-package runtime visual smoke
 
-Use the source-fresh `35a52259` package first for any new running-game review. The screenshot below remains the latest public save/Continue runtime visual smoke from the superseded release asset; it is reviewer context, not a substitute for running the current zip.
+Use the source-fresh `35a52259` package first for any new running-game review. The screenshot below is the latest public save/Continue runtime visual smoke captured from that repo-hosted source-fresh package; it is reviewer context, not a substitute for running the current zip.
 
 - Runtime visual smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
-  SHA256 `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`
-- Runtime path: redownloaded superseded GitHub Release asset `realm1-review-a5392e7c`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
-- What it shows: superseded release-asset bunker art at gameplay scale with `Entry`, `Workshop`, `Storage`, HUD, cave backdrop, and tutorial prompt visible; compare against the source-fresh `35a52259` package during running-game review.
+  SHA256 `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`
+- Runtime path: redownloaded repo-hosted package `35a52259`, built Storage through player-facing input, saved, quit to title, and used Continue back into the bunker.
+- What it shows: current source-fresh package bunker art at gameplay scale with `Entry`, `Workshop`, `Storage`, HUD, cave backdrop, and tutorial prompt visible.
 
 ## Current internal animation review candidate
 

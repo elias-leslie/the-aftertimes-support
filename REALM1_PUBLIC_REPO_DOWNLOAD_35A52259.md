@@ -56,6 +56,21 @@ bundle `docs/visual_proofs/2026-07-07-public-repo-download-35a52259-v1/`.
   browser check
   `ffc643964c011d04b88a4c1430ec7d17d305d2f5f40cd4558fb5669359b1c031`.
 
+
+## Public runtime save/Continue verification
+
+A source-fresh UI smoke is recorded in the game repo report
+`docs/PLAYTEST_REPORTS/2026-07-07-public-review-release-save-continue-35a52259-v1.md`
+and proof bundle
+`docs/visual_proofs/2026-07-07-public-review-release-save-continue-35a52259-v1/`.
+
+- Public package save/Continue proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
+- Loaded-bunker screenshot: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
+- Loaded-bunker screenshot SHA256: `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
+- Runtime path: redownloaded repo-hosted `35a52259` ZIP under Xvfb, title -> class select -> surface -> bunker, built Storage, saved, quit to title, then selected Continue back into the bunker.
+- Save-file check: `save_autosave.json` existed, `current_realm_id` was `aftertimes`, and saved base rooms were `entry,workshop,storage`.
+- Runtime proof log SHA256: `076af1a1651a303ca14e9a4fcef894cd242d6df6f600280988e4425840c16c4e`.
+
 ## Run on Linux
 
 ```bash
