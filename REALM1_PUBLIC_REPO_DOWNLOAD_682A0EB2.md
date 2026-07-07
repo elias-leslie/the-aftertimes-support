@@ -67,7 +67,7 @@ need private/source-repo access.
 
 The current `682a0eb2` ZIP now has package-level headless/pause-menu proof
 and visible title/class-select/gameplay/first-build/surface-return/movement
-plus save/Continue smoke screenshots from public redownloads of this same ZIP.
+plus save/Continue, automated-completion, and title Credits smoke screenshots/proofs from public redownloads or current-source proof of this same package line.
 
 - Public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
   screenshot SHA256 `01f6c793a1c28810f8b7c2abcb58bcec4a2b55681ee9403cd06678a0924d552e`.
@@ -86,6 +86,10 @@ plus save/Continue smoke screenshots from public redownloads of this same ZIP.
 - Public save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256 `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`;
   contact sheet SHA256 `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`.
+- Public automated no-injection completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+  contact sheet SHA256 `f0ced4893ea828de1d9f5567dfee06574bf3b7be875e2ebc40261f06085417b2`.
+- Public title Credits / Licenses smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
+  screenshot SHA256 `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 
 ## Run on Linux
 

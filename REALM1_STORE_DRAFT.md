@@ -26,9 +26,9 @@ Current public evidence snapshot:
 - Exported-package Return to Surface control-label proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-package-return-to-surface-control-label-682a0eb2.png>
   SHA256 `7cc4e689feb67239863479b51554c7c91c64521e653fe27b82f7a635b9fa7d05`.
-- Automated no-injection completion contact from prior `35a52259` lineage:
+- Current `682a0eb2` automated no-injection completion contact:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
-  SHA256 `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
+  SHA256 `f0ced4893ea828de1d9f5567dfee06574bf3b7be875e2ebc40261f06085417b2`.
 - Current `682a0eb2` save/Continue public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256
@@ -40,9 +40,9 @@ Current public evidence snapshot:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
   surface-entry SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`; first-build SHA256 `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`; movement screenshot SHA256
   `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`.
-- Prior Credits / Licenses public smoke:
+- Current `682a0eb2` Credits / Licenses public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
-  repo-hosted `35a52259` public title screenshot SHA256
+  repo-hosted `682a0eb2` public title screenshot SHA256
   `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 - Art/audio review packet:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>.
@@ -235,9 +235,9 @@ package line and public support proofs:
 - Exported-package Return to Surface control-label proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-package-return-to-surface-control-label-682a0eb2.png>;
   SHA `7cc4e689feb67239863479b51554c7c91c64521e653fe27b82f7a635b9fa7d05`.
-- Public automated completion proof from prior `35a52259` lineage:
+- Public automated completion proof from current `682a0eb2` source/package line:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>;
-  contact SHA `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
+  contact SHA `f0ced4893ea828de1d9f5567dfee06574bf3b7be875e2ebc40261f06085417b2`.
 - Current public save/Continue proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>;
   loaded-bunker screenshot SHA
@@ -250,7 +250,7 @@ package line and public support proofs:
   surface-entry SHA `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`, first-build SHA `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`, movement SHA `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`.
 - Public Credits / Licenses proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>;
-  prior repo-hosted `35a52259` public title screenshot SHA
+  current repo-hosted `682a0eb2` public title screenshot SHA
   `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 - Public art/audio packet:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>.
@@ -270,7 +270,7 @@ package line and public support proofs:
 | Privacy / telemetry wording | Public support repo now has public `SECURITY.md`, `LICENSE`, and `NOTICE`; public support page states local-only JSONL playtest telemetry/no network analytics and links the public docs. | External legal/store reviewer must still approve the wording before paid publication. |
 | Store platform account | No Steam/itch account ids, app ids, payout setup, tax setup, or release owner fields are present in repo evidence. | Complete platform account, payout, tax, and app-id setup outside the repo, then record non-secret ids/status here. |
 | Regional pricing | Draft base-price rationale exists at `$9.99 USD`; regional/tax/platform-fee review is not complete. | Approve base price, regional pricing policy, discounts, taxes, and currency handling. |
-| Paid-release legal review | LICENSE, NOTICE, SECURITY, and Credits/Licenses proofs exist; public support repo mirrors LICENSE/NOTICE/SECURITY, the current `682a0eb2` package proof, and prior `35a52259` title Credits smoke context for reviewers. Final external paid-release legal/store review is still open. Intake template: `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`. | Approve final store copy, license notices, privacy/telemetry wording, third-party acknowledgements, and copyright/publisher fields for sale. |
+| Paid-release legal review | LICENSE, NOTICE, SECURITY, and Credits/Licenses proofs exist; public support repo mirrors LICENSE/NOTICE/SECURITY, the current `682a0eb2` package proof, and current `682a0eb2` title Credits smoke context for reviewers. Final external paid-release legal/store review is still open. Intake template: `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`. | Approve final store copy, license notices, privacy/telemetry wording, third-party acknowledgements, and copyright/publisher fields for sale. |
 | Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims and is summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
 
 ## Publication blockers

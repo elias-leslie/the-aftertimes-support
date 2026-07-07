@@ -17,7 +17,7 @@ Current source-fresh public review package:
 - Public playtest guide: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PLAYTEST_GUIDE.md>
 - Public launch screenshot contact sheet for `682a0eb2`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-682a0eb2.png>
 - Public exported-package Return to Surface control-label proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-package-return-to-surface-control-label-682a0eb2.png>
-- Public automated completion proof from the prior `35a52259` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+- Public automated completion proof from the current `682a0eb2` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 - Current public release UI/class-select/gameplay/first-build/surface-return/surface-movement smokes from the `682a0eb2` source-fresh repo-hosted ZIP: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>.
 - Current public save/Continue smoke from the `682a0eb2` source-fresh repo-hosted ZIP: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>.
 - Public release redownload smoke proof for the superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SMOKE.md>
@@ -26,11 +26,11 @@ Current source-fresh public review package:
 - Public art / audio review packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
   - Includes the current `682a0eb2` package identity, launch contact proof, exported-package Return to Surface control-label proof, current 682a0eb2 basic runtime smokes, and current 682a0eb2 save/Continue smoke.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
-  - Includes the current `682a0eb2` package snapshot: Linux zip SHA `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`, launch contact SHA `8500cbdf66dda8b153bae3f5642fc1ac20f04542e1c1dce644bcbfe8448bd146`, exported-package Return to Surface control-label SHA `7cc4e689feb67239863479b51554c7c91c64521e653fe27b82f7a635b9fa7d05`, plus current 682a0eb2 basic runtime and save/Continue smokes, with prior automated completion lineage.
+  - Includes the current `682a0eb2` package snapshot: Linux zip SHA `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`, launch contact SHA `8500cbdf66dda8b153bae3f5642fc1ac20f04542e1c1dce644bcbfe8448bd146`, exported-package Return to Surface control-label SHA `7cc4e689feb67239863479b51554c7c91c64521e653fe27b82f7a635b9fa7d05`, plus current 682a0eb2 basic runtime and save/Continue smokes, with current automated completion contact SHA `f0ced4893ea828de1d9f5567dfee06574bf3b7be875e2ebc40261f06085417b2` and current title Credits smoke.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
   - Proposed paid-release scope, if reviewers approve: Realm 1 / first-chapter Early Access, Linux-only platform claims, GitHub Pages/issues as public support route, local-only JSONL/no-network telemetry wording, and explicit deferrals for Windows runtime, macOS, web, mobile, multiplayer, Realms 2-6, dedicated press inbox/social links, and private platform/tax/payout details.
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
-  - Credits proof page includes the prior repo-hosted `35a52259` title Credits smoke; reviewers should still verify legal panels in the current `682a0eb2` build before paid release.
+  - Credits proof page includes the current repo-hosted `682a0eb2` title Credits smoke; external reviewers still must approve the legal/store/business gate before paid release.
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Superseded GitHub Release Linux zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
 - Current ZIP SHA256: `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`

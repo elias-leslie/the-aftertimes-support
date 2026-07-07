@@ -14,7 +14,7 @@ Review the running Linux build first, then use these public artifacts for still-
 - Scope: prerelease external-review package, not a public paid launch.
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Automated no-injection completion proof from prior `35a52259` package lineage: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+- Automated no-injection completion proof from current `682a0eb2` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 
 ## Visual and store-art artifacts
 
