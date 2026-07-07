@@ -1,6 +1,6 @@
 # Realm 1 Telemetry Review Guide
 
-Status: public local-telemetry and redaction guide for external QA/legal review. It does **not** approve privacy wording or replace external QA.
+Status: public local-telemetry and redaction guide for the QA/legal checklist. It does **not** approve privacy wording by itself.
 
 The review build may write optional local JSONL playtest events. No network analytics are sent.
 
@@ -74,7 +74,7 @@ C:\Users\<user>\AppData\Roaming\Godot\app_userdata\The AfterTimes\telemetry_afte
 
 ## What to attach to review issues
 
-For external QA, attach only what helps explain the result:
+For public QA feedback, attach only what helps explain the result:
 
 - Last 5-20 relevant JSONL lines.
 - Exact visible game text at the blocker.

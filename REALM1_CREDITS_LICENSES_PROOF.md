@@ -1,6 +1,6 @@
 # The AfterTimes Realm 1 Credits / Licenses Proof
 
-Status: **public proof for external legal/store/business review; not legal approval.**
+Status: **public proof for the legal/store/business checklist; not legal approval.**
 
 This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a redownloaded public-package title Credits smoke from the current `1c6591fb` review build. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
@@ -31,8 +31,8 @@ This page mirrors current runtime proof for the title Credits / Licenses panel a
 Internal current-tree runtime proof passed for credits, Earth Remembers,
 post-credits crew finale, journal closure, title Credits, title Continue, and
 completed save persistence. This public page exposes the non-secret screenshots
-and hashes external legal/store reviewers need without private source-repo access.
+and hashes needed for the legal/store checklist without private source-repo access.
 
 ## Review note
 
-This makes the current credits/license panels publicly visible. It does **not** approve copyright, license, privacy, platform, pricing, or paid-publication status. Issue #3 remains open until an external PASS or accepted deferral is recorded.
+This makes the current credits/license panels publicly visible. It does **not** approve copyright, license, privacy, platform, pricing, or paid-publication status. Issue #3 remains open for concrete field decisions, credential/setup proof, or explicit deferrals; it is not an external-human-review blocker.

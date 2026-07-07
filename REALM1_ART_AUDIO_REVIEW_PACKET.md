@@ -1,6 +1,6 @@
 # Realm 1 Public Art / Audio Review Packet
 
-Status: public artifact packet for external paid-release art, animation, and audio review. It does **not** approve paid launch by itself.
+Status: public artifact packet for current agentic art/audio release-quality evidence. It does **not** approve paid launch by itself.
 
 Review the running Linux build first, then use these public artifacts for still-frame, motion, store-art, and audio-identity checks.
 
@@ -11,7 +11,7 @@ Review the running Linux build first, then use these public artifacts for still-
 - Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
 - ZIP bytes: `63,386,281`
 - Runtime/export commit: `1c6591fb`
-- Scope: prerelease external-review package, not a public paid launch.
+- Scope: prerelease review package, not a public paid launch.
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Automated no-injection completion proof for the current `1c6591fb` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
@@ -61,7 +61,7 @@ This player bunker side-walk packet is public reviewer context only. It is not r
 - Loop GIF: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/player-side-walk-v5-public-loop.gif>
   SHA256 `7b8f558d1bf7d09a3ba8f1d817bc0dd4c4fa38e9a0a65d8dde32df81041485b7`
 - Result: Agent Hub panels approved the v5 review candidate with no blocking issues.
-- Scope note: external review still judges the running Linux review build unless a later export explicitly says this candidate is wired.
+- Scope note: current agentic/runtime review judges the running Linux review build unless a later export explicitly says this candidate is wired.
 
 ## Audio proof artifacts
 
@@ -80,8 +80,12 @@ Audio must be judged in the running build. These public waveform/contact proofs 
 
 ## Verdict form
 
-Submit the external art / animation / audio verdict here:
+Current agentic release-quality summary:
+
+- Visual/graphics: `PASS_WITH_FIXES` from Agent Hub critics; concrete polish remains for UI hierarchy/button weight, small-key/text legibility, richer bunker/exterior detail parity, and textured radiation haze.
+- Audio/SFX: `PASS` from deterministic metrics plus Agent Hub verifier; reactor hum is now a 30.040816s runtime loop.
+- Public gate summary: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AGENTIC_RELEASE_QUALITY_GATES.md>
+
+Public feedback can still be submitted here, but paid launch is not blocked on vague human review:
 
 <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>
-
-Paid launch remains blocked until issue #2 records PASS or an accepted MIXED/deferral decision.

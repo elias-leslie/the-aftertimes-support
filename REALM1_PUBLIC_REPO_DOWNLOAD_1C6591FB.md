@@ -1,8 +1,8 @@
 # Realm 1 Public Repo-Hosted Review Package 1c6591fb
 
-Status: current source-fresh public Linux review package. Paid launch remains blocked until external QA, art/audio, and legal/store/business issue verdicts pass or accepted deferrals are recorded.
+Status: current source-fresh public Linux review package. Paid launch remains blocked on concrete current gates: visual critics are `PASS_WITH_FIXES`, store/legal/business/platform fields remain open, and release publication credentials/tooling need proof.
 
-This page proves the current source/export commit is available as a repo-hosted ZIP while formal GitHub Release asset publication is still blocked by credentials/tooling. Use this ZIP for new external review. The prior repo-hosted `682a0eb2` and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
+This page proves the current source/export commit is available as a repo-hosted ZIP while formal GitHub Release asset publication is still blocked by credentials/tooling. Use this ZIP for new public review and verification. The prior repo-hosted `682a0eb2` and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
 
 ## Package identity
 
@@ -68,4 +68,4 @@ The hash should print `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f
 
 ## Remaining blockers
 
-This package refresh does not close the external ship gates. External QA (#1), art/animation/audio (#2), and legal/store/business (#3) remain open until the public tracker issues record PASS or accepted MIXED/deferral decisions.
+This package refresh does not close every ship gate. Completion QA is currently `PASS` via deterministic no-injection proof. Audio/SFX is `PASS` via metrics plus Agent Hub verifier. Visual/graphics is `PASS_WITH_FIXES`, with concrete UI/text/detail/radiation-haze polish remaining. Legal/store/business/platform stays open for field decisions and credentials/tooling proof.

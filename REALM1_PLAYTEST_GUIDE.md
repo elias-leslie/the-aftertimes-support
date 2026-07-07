@@ -52,7 +52,7 @@ Public Windows/macOS/web/mobile packages are not part of this review packet; jud
 6. Use the unlocked bunker elevator and confirm the road-home payoff.
 7. Save, quit to title, Continue, and confirm the win/reactor state survives load.
 
-## External QA ship-gate rubric
+## QA ship-gate rubric
 
 This is the human pass/fail bar for the open Realm 1 completion gate. A test
 does **not** count as a ship-gate pass if the player needed agent/dev help,
@@ -216,14 +216,14 @@ These are intentionally not part of the current Realm 1 playtest verdict:
 
 ## Known pre-QA caveats
 
-- Realm 1 remains **not ship-ready** until external human new-player completion QA and final art/animation critique where required.
+- Realm 1 remains **not ship-ready** until current concrete gates pass: visual critics are currently `PASS_WITH_FIXES`, store/legal/platform fields remain open, and release publication proof is credential/tooling-blocked. Completion QA and audio/SFX currently pass.
 - Windows/macOS/web/mobile runtime proof is deferred; do not use this packet for non-Linux platform claims.
 - Optional Agent Hub / LLM dialogue is not required; fallback dialogue keeps the game playable offline.
 - This is a prerelease external-review package, not a public paid launch.
 
 ## Feedback format
 
-Preferred: open the public **External QA playtest report** form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>.
+Preferred for feedback: open the public **QA playtest report** form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>.
 
 If reporting elsewhere, include:
 

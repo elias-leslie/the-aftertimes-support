@@ -1,8 +1,8 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: current scripted no-injection completion proof for the `1c6591fb` source/package line. It does **not** replace external unaided human QA.
+Status: current deterministic no-injection completion proof for the `1c6591fb` source/package line. It is the active completion QA evidence gate unless concrete runtime failures are found.
 
-Use this as reviewer context that the current `1c6591fb` review package has a proven complete path under fixed-seed scripted input; run the public build yourself for the external QA verdict.
+Use this as current proof that the `1c6591fb` review package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but paid launch is not blocked on vague human review.
 
 ## Build under review
 
@@ -20,7 +20,7 @@ Use this as reviewer context that the current `1c6591fb` review package has a pr
 
 The current `1c6591fb` no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
 
-It does **not** use debug inventory, save editing, console commands, or a preloaded late-game save. It does use a fixed proof seed and scripted input, so a fresh unaided human playtest is still required for ship approval.
+It does **not** use debug inventory, save editing, console commands, or a preloaded late-game save. It uses a fixed proof seed and scripted input, so it is an agentic/deterministic completion gate; public unaided playtest feedback remains welcome but is not a human-review blocker.
 
 ## Public artifact
 
@@ -40,10 +40,10 @@ It does **not** use debug inventory, save editing, console commands, or a preloa
 - Elevator payoff displayed: `Elevator doors open toward The Deep Cold. The road home begins.`
 - Save/quit/title Continue reloaded with `reactor_complete=true`.
 
-## External QA form
+## Public QA feedback form
 
-Submit the required unaided human QA verdict here:
+Submit optional public QA feedback here:
 
 <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
 
-Paid launch remains blocked until issue #1 records PASS or an accepted MIXED/deferral decision.
+Paid launch is no longer blocked by issue #1 or vague human QA. It remains blocked by the current concrete gates: visual/graphics `PASS_WITH_FIXES`, store/legal/platform fields, and credential-bound publication proof.

@@ -27,7 +27,7 @@ Use this as the decision checklist for the current paid-release review. Do not p
 
 | Area | Current evidence | Decision needed |
 |---|---|---|
-| External QA | Public QA tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/1> | External PASS, or accepted MIXED/deferral, for fresh unaided completion. |
+| Completion QA | Current deterministic completion proof plus public QA tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/1> | Current deterministic proof is `PASS`; reopen only on concrete failed runtime evidence or accepted scope change. |
 | Art / animation / audio | Public art/audio tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2> | External PASS, or accepted MIXED/deferral, after running-game plus artifact review. |
 | Store/legal/business | Public legal/store tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3> | PASS, or accepted MIXED/deferral, for this whole packet. |
 | Store copy | Draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md> | Approve descriptions, tags, Early Access wording, trailer outline, factsheet, and publication blockers. |

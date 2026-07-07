@@ -1,6 +1,6 @@
 # Realm 1 Public Release Redownload Smoke
 
-Status: superseded public GitHub Release asset integrity and runtime smoke proof. Current external review uses the repo-hosted `1c6591fb` ZIP in `REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md`. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
+Status: superseded public GitHub Release asset integrity and runtime smoke proof. Current external review uses the repo-hosted `1c6591fb` ZIP in `REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md`. This is superseded lineage and does **not** replace the current agentic release gates.
 
 Verified on 2026-07-03 from the public support-repo release URL:
 

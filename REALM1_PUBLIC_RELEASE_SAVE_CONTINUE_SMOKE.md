@@ -1,6 +1,6 @@
 # Realm 1 Public Package Save / Continue Smoke
 
-Status: public package save/Continue UI smoke proof. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
+Status: public package save/Continue UI smoke proof. This is superseded lineage and does **not** replace the current agentic release gates.
 
 Verified on 2026-07-07 from the public repo-hosted source-fresh Linux review zip after redownload and SHA check:
 

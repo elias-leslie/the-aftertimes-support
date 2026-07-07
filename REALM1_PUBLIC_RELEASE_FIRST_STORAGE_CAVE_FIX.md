@@ -1,6 +1,6 @@
 # Realm 1 Public First-Storage Unrepaired-Cave Fix Proof
 
-Status: superseded GitHub Release/package-lineage proof. The current source-fresh reviewer package is the repo-hosted `1c6591fb` ZIP linked in `REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md`; external QA/art/legal gates still open.
+Status: superseded GitHub Release/package-lineage proof. The current source-fresh reviewer package is the repo-hosted `1c6591fb` ZIP linked in `REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md`; current agentic visual and store/legal/platform gates still have concrete open items.
 
 Superseded public review build exercised for this proof:
 
