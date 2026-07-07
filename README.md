@@ -31,6 +31,7 @@ Current public review build:
 - Public art / audio review packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
   - Includes current public-package runtime visual smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
+  - Includes the current a539 evidence snapshot: Linux zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`, launch contact SHA `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`, automated completion contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`, save/Continue smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`, surface-movement smoke SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`, and title Credits smoke SHA `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
   - Credits proof page references current public package `realm1-review-a5392e7c`.
