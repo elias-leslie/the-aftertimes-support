@@ -1,11 +1,14 @@
 # Realm 1 Public Repo-Hosted Review Package 35a52259
 
-Status: **source-fresh public review package**, not a paid public launch.
+Status: **superseded repo-hosted public review package**, not a paid public launch.
 
-This package is hosted in the support repository as a fallback while GitHub Release
-asset publication for `35a52259` is pending. Use this ZIP for new external review.
-The older GitHub Release asset `realm1-review-a5392e7c` remains available only as
-superseded release-lineage evidence.
+This package is retained in the support repository as historical evidence for the
+`35a52259` review line. Do **not** use this ZIP for new external review unless
+you are explicitly auditing the older `35a52259` lineage. Current external
+review uses the repo-hosted `682a0eb2` ZIP and proof in
+[`REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md`](REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md).
+The older GitHub Release asset `realm1-review-a5392e7c` remains available only
+as superseded release-lineage evidence.
 
 ## Download
 
@@ -46,7 +49,7 @@ need private/source-repo access.
   `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
 - Extracted inner hashes matched the executable and `.pck` identities above.
 - Extracted Linux build completed `./the-aftertimes.x86_64 --headless --quit-after 60`.
-- Public support page fetch returned HTTP `200` and current `35a52259` markers.
+- Public support page fetch returned HTTP `200` and `35a52259` markers at the time of this superseded-package verification.
 - Browser check of <https://elias-leslie.github.io/the-aftertimes-support/#current-review-build>
   reported `errors=0`, `warnings=0`, `network=0`; screenshot SHA256
   `2baecd8b6702b7018c7f4836835621b333b0fa8e480475c68fc5e38383c5cd04`.
@@ -60,7 +63,7 @@ need private/source-repo access.
 
 ## Public runtime basic-smoke verification
 
-A source-fresh basic UI/gameplay smoke is available publicly through the support
+A historical `35a52259` basic UI/gameplay smoke remains available publicly through the support
 proof pages and screenshots below.
 
 - Public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
@@ -80,7 +83,7 @@ proof pages and screenshots below.
 
 ## Public runtime save/Continue verification
 
-A source-fresh UI smoke is available publicly through the support proof page and
+A historical `35a52259` save/Continue UI smoke remains available publicly through the support proof page and
 screenshot below.
 
 - Public package save/Continue proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
@@ -90,7 +93,7 @@ screenshot below.
 - Save-file check: `save_autosave.json` existed, `current_realm_id` was `aftertimes`, and saved base rooms were `entry,workshop,storage`.
 - Runtime proof log SHA256: `076af1a1651a303ca14e9a4fcef894cd242d6df6f600280988e4425840c16c4e`.
 
-## Run on Linux
+## Historical reproduction on Linux
 
 ```bash
 sha256sum the-aftertimes-realm1-linux-35a52259.zip
@@ -99,4 +102,4 @@ chmod +x the-aftertimes.x86_64
 ./the-aftertimes.x86_64
 ```
 
-The hash should print `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
+The hash should print `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`. For current external review, use the `682a0eb2` package instead.

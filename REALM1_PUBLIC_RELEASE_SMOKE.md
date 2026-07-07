@@ -1,6 +1,6 @@
 # Realm 1 Public Release Redownload Smoke
 
-Status: public release asset integrity and runtime smoke proof. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
+Status: superseded public GitHub Release asset integrity and runtime smoke proof. Current external review uses the repo-hosted `682a0eb2` ZIP in `REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md`. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
 
 Verified on 2026-07-03 from the public support-repo release URL:
 
@@ -19,4 +19,4 @@ Godot Engine v4.7.stable.official.5b4e0cb0f - https://godotengine.org
 runtime_smoke=PASS
 ```
 
-Reviewers should still run the game normally and submit verdicts through the public tracker issues. Paid launch remains blocked until the public trackers record PASS or accepted MIXED/deferral decisions.
+Reviewers should use the current `682a0eb2` repo-hosted ZIP for new source-fresh review, then run the game normally and submit verdicts through the public tracker issues. Paid launch remains blocked until the public trackers record PASS or accepted MIXED/deferral decisions.
