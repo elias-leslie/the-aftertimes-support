@@ -58,6 +58,26 @@ need private/source-repo access.
   `ffc643964c011d04b88a4c1430ec7d17d305d2f5f40cd4558fb5669359b1c031`.
 
 
+## Public runtime basic-smoke verification
+
+A source-fresh basic UI/gameplay smoke is available publicly through the support
+proof pages and screenshots below.
+
+- Public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
+  screenshot SHA256 `01f6c793a1c28810f8b7c2abcb58bcec4a2b55681ee9403cd06678a0924d552e`.
+- Public class-select smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_CLASS_SELECT_SMOKE.md>
+  screenshot SHA256 `1d3a7234972d0586a1b2f188b2e80bbacdc666fb4e6816a22bba311b2dbd6e94`.
+- Public surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>
+  screenshot SHA256 `5c0bfa073f9919792e1085f001a725b71219c457484a00985396d9ccde3b8bd2`.
+- Public first-Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>
+  screenshot SHA256 `201849b1368e06ebdbe3946c286312ea959e76f741aadf6517b782d57789fb88`.
+- Public surface-return smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_RETURN_SMOKE.md>
+  screenshot SHA256 `7836d3f526b71ca682b9bc9aa0d44ff979fc3b2b115d11f6dccbe2b8d858a9dd`.
+- Public surface-movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
+  screenshot SHA256 `6efb01da9b025a97c1e0431f732fdd8357073e27aa838ec8d74cf0e1851f163b`.
+- Runtime path: redownloaded repo-hosted `35a52259` ZIP under Xvfb, title -> class select -> surface gameplay, opened bunker with `E`, built Storage with `B`, returned to surface with `R`, then held `D` and `S` to prove surface movement.
+- Runtime proof log SHA256: `2cff43c2e3daf2323afdc57a76b50087cfd5864e1724c8739c2ae192dadd73f4`.
+
 ## Public runtime save/Continue verification
 
 A source-fresh UI smoke is available publicly through the support proof page and

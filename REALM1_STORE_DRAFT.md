@@ -30,10 +30,12 @@ Current public evidence snapshot:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256
   `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
-- Surface return/movement public smoke:
+- Basic public runtime smokes:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>,
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>, and
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>
-  movement screenshot SHA256
-  `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`.
+  surface-entry SHA256 `5c0bfa073f9919792e1085f001a725b71219c457484a00985396d9ccde3b8bd2`; first-build SHA256 `201849b1368e06ebdbe3946c286312ea959e76f741aadf6517b782d57789fb88`; movement screenshot SHA256
+  `6efb01da9b025a97c1e0431f732fdd8357073e27aa838ec8d74cf0e1851f163b`.
 - Credits / Licenses public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
   current repo-hosted `35a52259` public title screenshot SHA256
@@ -233,9 +235,11 @@ package line and public support proofs:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>;
   loaded-bunker screenshot SHA
   `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
-- Public surface-return/movement proof:
+- Public basic runtime smoke proofs:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>,
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>, and
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>;
-  movement SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`.
+  surface-entry SHA `5c0bfa073f9919792e1085f001a725b71219c457484a00985396d9ccde3b8bd2`, first-build SHA `201849b1368e06ebdbe3946c286312ea959e76f741aadf6517b782d57789fb88`, movement SHA `6efb01da9b025a97c1e0431f732fdd8357073e27aa838ec8d74cf0e1851f163b`.
 - Public Credits / Licenses proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>;
   current repo-hosted `35a52259` public title screenshot SHA
