@@ -9,14 +9,14 @@ This page supersedes older wording that treated paid launch as blocked on vague 
 - Completion proof: `PASS` — current no-injection scripted completion reaches class select, surface survival, 3 NPCs, bunker, 7 rooms, reactor, elevator/win, save, title Continue, and reload.
 - Audio/SFX: `PASS` — 34 runtime audio files, 399.99s total, true-peak max -1.4 dBFS, 0 metric issues; Agent Hub verifier reports `STATUS: verified`.
 - Reactor hum: `PASS` — rebuilt from a 7s loop to a 30.040816s stereo MP3 loop at 128k, true peak -4.6 dBFS, with refreshed waveform proof.
-- Visual/graphics: `PASS_WITH_FIXES` — Agent Hub visual critics say the game is cohesive and indie-viable, with key art strong, but final `PASS` still needs concrete polish: stronger UI hierarchy/button weight, small-key/text legibility, richer bunker/exterior detail parity, and more textured radiation haze.
+- Visual/graphics: `PASS` — second-pass runtime/A-Loom proof and Agent Hub critics verify UI hierarchy/button weight, keybinding legibility, bunker detail parity, and radiation haze texture.
 - Store/legal/platform: `OPEN` — not a human-review blocker; remaining items are concrete store fields, platform account/release decisions, accepted platform claims, and credential-bound publication proof.
 
 
 ## Tracker status
 
 - Completion QA tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/1> is closed as superseded by deterministic runtime proof.
-- Visual gate tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2> remains open for concrete visual `PASS_WITH_FIXES` items.
+- Visual/audio gate tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2> is closed completed with final visual/audio `PASS`.
 - Store/legal/platform tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3> remains open for field decisions, accepted claims/deferrals, and credential-bound publication proof.
 
 ## Public proof links
@@ -24,12 +24,12 @@ This page supersedes older wording that treated paid launch as blocked on vague 
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
 - Current completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 - Current art/audio packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
+- Visual release polish proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_VISUAL_RELEASE_POLISH_V1.md>
 - Reactor hum waveform proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/reactor-hum-waveform-public-proof.png>
 - Credits/Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
 
 ## What remains before paid launch
 
-1. Fix or explicitly defer the visual `PASS_WITH_FIXES` items.
-2. Refresh the exported package/screenshots after any visual runtime changes.
-3. Finalize store/legal/business/platform fields and accepted platform claims.
-4. Publish through the chosen channel once credentials/tooling are available.
+1. Finalize store/legal/business/platform fields and accepted platform claims.
+2. Publish through the chosen channel once credentials/tooling are available.
+3. Refresh the exported package/screenshots only if future runtime visuals change again.

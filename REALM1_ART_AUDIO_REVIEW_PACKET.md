@@ -82,7 +82,7 @@ Audio must be judged in the running build. These public waveform/contact proofs 
 
 Current agentic release-quality summary:
 
-- Visual/graphics: `PASS_WITH_FIXES` from Agent Hub critics; concrete polish remains for UI hierarchy/button weight, small-key/text legibility, richer bunker/exterior detail parity, and textured radiation haze.
+- Visual/graphics: `PASS` from second-pass runtime/A-Loom proof and Agent Hub critics; issue #2 is closed completed. Visual polish proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_VISUAL_RELEASE_POLISH_V1.md>.
 - Audio/SFX: `PASS` from deterministic metrics plus Agent Hub verifier; reactor hum is now a 30.040816s runtime loop.
 - Public gate summary: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AGENTIC_RELEASE_QUALITY_GATES.md>
 

@@ -24,9 +24,11 @@ Current source-fresh public review package:
 - Public telemetry review guide: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_TELEMETRY_REVIEW_GUIDE.md>
 - Public capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>
 - Public art / audio review packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
-  - Includes the current `1c6591fb` package identity, launch contact proof, automated-completion proof, updated 30s reactor-hum waveform proof, previous runtime-smoke lineage, and current art/audio context.
+  - Includes the current `1c6591fb` package identity, launch contact proof, automated-completion proof, visual polish proof, updated 30s reactor-hum waveform proof, previous runtime-smoke lineage, and current art/audio context.
+- Public visual release polish proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_VISUAL_RELEASE_POLISH_V1.md>
+  - Visual/graphics verdict: `PASS`; launch contact SHA `97767802834b36813753d904f1abd5f0fd4f65f149244cf02f2c0b7fe9960455`, UI contact SHA `fc8730706342713414ef4372b28f4c09d944df0e3c99a5d9c448850dbadbc2db`.
 - Public agentic release quality gates: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AGENTIC_RELEASE_QUALITY_GATES.md>
-  - Current verdicts: completion `PASS`, audio/SFX `PASS`, visual/graphics `PASS_WITH_FIXES`, store/legal/platform `OPEN` for concrete fields/credentials.
+  - Current verdicts: completion `PASS`, audio/SFX `PASS`, visual/graphics `PASS`, store/legal/platform `OPEN` for concrete fields/credentials.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
   - Includes the current `1c6591fb` package snapshot: Linux zip SHA `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`, launch contact SHA `d1de726b9f2dee02898e342801c21f213ad1dc2d381035390c0a64d1bd03b9ec`, automated-completion contact SHA `a029d94df02890d40dec12a99d79aff78f15d3e86f32681392bf75fac771ed5d`, current title Credits smoke SHA `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`, plus previous `682a0eb2` basic runtime and save/Continue smoke lineage.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
@@ -58,13 +60,13 @@ Review form placeholders use the current source-fresh repo-hosted package `1c659
 Public tracker artifacts:
 
 - Completion QA superseded tracker (closed): <https://github.com/elias-leslie/the-aftertimes-support/issues/1>
-- Agentic visual release-quality fixes tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2>
+- Agentic visual/audio release-quality tracker (closed PASS): <https://github.com/elias-leslie/the-aftertimes-support/issues/2>
 - Store/legal/platform fields and publication proof tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>
 
 Current release gates:
 
 - Completion QA: current deterministic no-injection completion proof is `PASS`; reopen only on concrete failed runtime evidence or accepted scope change.
-- Art / graphics: current Agent Hub visual review is `PASS_WITH_FIXES`; concrete polish remains for UI hierarchy/text/detail/radiation-haze before final `PASS`.
+- Art / graphics: current runtime/A-Loom/Agent Hub visual review is `PASS`; issue #2 is closed completed.
 - Audio / SFX: current metrics plus Agent Hub verifier are `PASS`; reactor hum is now a 30s runtime loop.
 - Legal / store / business: open until store/legal/platform/pricing fields and accepted platform claims are recorded or explicitly deferred.
 
