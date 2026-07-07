@@ -23,10 +23,12 @@ superseded release-lineage evidence.
 - Linux `.pck` SHA256: `bbf55141c3851fe943be43c503e8dc16158c8edbec3fe5e3948315d40754ec3f`
 - Linux `.pck` bytes: `36,554,412`
 
-## Source-local pre-publication proof
+## Source-local pre-publication proof summary
 
-- Local package manifest: `docs/visual_proofs/2026-07-07-local-review-package-after-duplicate-room-plan-hud-copy-v1/build_manifest-35a52259.json`
-- Local package smoke log SHA256: `037dd8b42ca7058b62b5555724cff76b748c651cb2252ee73dac52a938d0ecd2`
+The support repo exposes the non-secret artifacts reviewers need publicly; deeper
+source-local manifests and proof logs remain in the game repository. Publicly
+visible pre-publication evidence:
+
 - Launch screenshot contact: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>
 - Launch screenshot contact SHA256: `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`
 - Duplicate room-plan HUD runtime proof screenshot SHA256:
@@ -34,9 +36,8 @@ superseded release-lineage evidence.
 
 ## Public verification
 
-Public redownload verification is recorded in the game repo report
-`docs/PLAYTEST_REPORTS/2026-07-07-public-repo-download-35a52259-v1.md` and proof
-bundle `docs/visual_proofs/2026-07-07-public-repo-download-35a52259-v1/`.
+Public redownload verification is summarized here so external reviewers do not
+need private/source-repo access.
 
 - Public ZIP fetch: HTTP `200`, content type `application/zip`, downloaded bytes
   `63,381,905`, effective URL
@@ -59,10 +60,8 @@ bundle `docs/visual_proofs/2026-07-07-public-repo-download-35a52259-v1/`.
 
 ## Public runtime save/Continue verification
 
-A source-fresh UI smoke is recorded in the game repo report
-`docs/PLAYTEST_REPORTS/2026-07-07-public-review-release-save-continue-35a52259-v1.md`
-and proof bundle
-`docs/visual_proofs/2026-07-07-public-review-release-save-continue-35a52259-v1/`.
+A source-fresh UI smoke is available publicly through the support proof page and
+screenshot below.
 
 - Public package save/Continue proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
 - Loaded-bunker screenshot: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>

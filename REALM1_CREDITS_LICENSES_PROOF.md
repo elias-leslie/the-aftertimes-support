@@ -4,7 +4,8 @@ Status: **public proof for external legal/store/business review; not legal appro
 
 This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a redownloaded public-package title Credits smoke. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
-- Public review build: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Superseded title Credits smoke lineage: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Public license: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Public notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
 - Public security/privacy notes: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/SECURITY.md>
@@ -21,15 +22,16 @@ This page mirrors current runtime proof for the title Credits / Licenses panel a
 
 ## Public package smoke
 
-- Public title Credits smoke report: `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-title-credits-after-tutorial-storage-mira-prompt-v1.md` in the game repo.
-- Runtime path: redownloaded current public zip on 2026-07-04, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, then closed it.
-- Result: title Credits / Licenses panel opened and closed from the current public package with no runtime errors beyond the known Xvfb V-Sync warning.
+- Runtime path: redownloaded the then-current public zip on 2026-07-04, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, then closed it.
+- Result: title Credits / Licenses panel opened and closed with no runtime errors beyond the known Xvfb V-Sync warning.
+- Current `35a52259` package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
 
-## Source evidence
+## Source evidence summary
 
-- Source proof report: `docs/PLAYTEST_REPORTS/2026-07-03-current-endgame-credits-post-glass-plain-copy-v1.md` in the game repo.
-- Source proof bundle: `docs/visual_proofs/2026-07-03-current-endgame-credits-post-glass-plain-copy-v1/` in the game repo.
-- Source report result: current-tree runtime proof passed for credits, Earth Remembers, post-credits crew finale, journal closure, title Credits, title Continue, and completed save persistence.
+Internal current-tree runtime proof passed for credits, Earth Remembers,
+post-credits crew finale, journal closure, title Credits, title Continue, and
+completed save persistence. This public page exposes the non-secret screenshots
+and hashes external legal/store reviewers need without private source-repo access.
 
 ## Review note
 

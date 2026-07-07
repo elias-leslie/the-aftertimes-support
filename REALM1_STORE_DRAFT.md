@@ -217,48 +217,40 @@ the surface unlivable.
 These fields are release blockers, not copywriting tasks. Do not guess values or
 publish invented or unapproved links.
 
-Latest repo evidence refreshes now point at the current repo-hosted `35a52259`
+Latest public evidence refreshes now point at the current repo-hosted `35a52259`
 package line and public support proofs:
 
-- Current Linux export / launch screenshot proof:
-  `docs/PLAYTEST_REPORTS/2026-07-07-current-review-export-after-duplicate-room-plan-hud-copy-v1.md`;
-  contact sheet
-  `docs/visual_proofs/2026-07-07-review-export-after-duplicate-room-plan-hud-copy-v1/launch-screenshots-v2-contact.png`;
-  SHA `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
-- Current public review package:
-  `docs/PLAYTEST_REPORTS/2026-07-07-public-repo-download-35a52259-v1.md`;
+- Current Linux review package proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>;
   zip SHA `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
-- Current public automated completion proof:
-  `docs/PLAYTEST_REPORTS/2026-07-03-public-automated-completion-proof-after-tutorial-storage-mira-prompt-v1.md`;
+- Launch screenshot contact sheet:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact.png>;
+  SHA `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
+- Public automated completion proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>;
   contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
-- Current public save/Continue proof:
-  `docs/PLAYTEST_REPORTS/2026-07-07-public-review-release-save-continue-35a52259-v1.md`;
+- Public save/Continue proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>;
   loaded-bunker screenshot SHA
   `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
-- Current public surface-return/movement proof:
-  `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-surface-movement-after-tutorial-storage-mira-prompt-v1.md`;
-  return SHA `1e368d416d4c201352812bb45afc328cfefac27a7f2fb88b80343641ba861667`;
+- Public surface-return/movement proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SURFACE_MOVEMENT_SMOKE.md>;
   movement SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`.
-- Current public Credits / Licenses proof:
-  `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-title-credits-after-tutorial-storage-mira-prompt-v1.md`;
+- Public Credits / Licenses proof:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>;
   public title screenshot SHA
   `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
-- Current public art/audio packet proof:
-  `docs/PLAYTEST_REPORTS/2026-07-04-public-art-audio-current-package-proof-link-v1.md`.
-- Current public store landing proof:
-  `docs/PLAYTEST_REPORTS/2026-07-07-public-store-landing-evidence-v1.md`;
-  support anchor <https://elias-leslie.github.io/the-aftertimes-support/#store-draft>.
-- Current public release-scope / deferral landing proof:
-  `docs/PLAYTEST_REPORTS/2026-07-07-public-release-scope-landing-evidence-v1.md`;
-  support anchor <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>.
-- Public review status, legal/security, telemetry, playtest-guide,
-  blocker-tracker, intake-template, capsule/key-art, and
-  business-field proofs remain the 2026-07-03 support-page proofs. Prior
-  business-field search proof:
-  `docs/visual_proofs/2026-07-03-release-business-field-freshness-v1/business-field-search.txt`
-  SHA `690d4136d5200df9bca2d8eea43e50836ef4a4fe6b78f8362408cfb83e2ec631`.
+- Public art/audio packet:
+  <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>.
+- Public store landing proof:
+  <https://elias-leslie.github.io/the-aftertimes-support/#store-draft>.
+- Public release-scope / deferral landing proof:
+  <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>.
+- Public review status, legal/security, telemetry, playtest guide,
+  blocker trackers, intake templates, capsule/key-art, and business-field notes
+  are linked from <https://elias-leslie.github.io/the-aftertimes-support/>.
 
-| Field | Current repo evidence | Required owner action before publication |
+| Field | Current public evidence | Required owner action before publication |
 |---|---|---|
 | Store copy draft | Public store-copy draft exists: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>; it links the public release scope / deferral packet at <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>, now summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, and mirrors current product positioning, Steam/itch short descriptions, long description, tags, Early Access wording, trailer outline, pricing rationale, factsheet, release-field packet, and publication blockers. | External legal/store reviewer must still approve store copy, trailer/copy, tags, Early Access wording, and pricing/business fields before paid publication. |
 | Public website / social links | Public project/support URL exists: <https://elias-leslie.github.io/the-aftertimes-support/> and now includes current Linux run instructions, a public playtest guide link, this store-copy draft, automated completion proof, save/Continue proof, surface-return/movement proof, release scope / deferral review at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status at `#review-status`. No separate social profile is approved. | Use the support URL as the public project/support link if the platform accepts GitHub-hosted pages; otherwise provide a platform-specific website/social URL or approve omitting social links. |
@@ -267,13 +259,13 @@ package line and public support proofs:
 | Store platform account | No Steam/itch account ids, app ids, payout setup, tax setup, or release owner fields are present in repo evidence. | Complete platform account, payout, tax, and app-id setup outside the repo, then record non-secret ids/status here. |
 | Regional pricing | Draft base-price rationale exists at `$9.99 USD`; regional/tax/platform-fee review is not complete. | Approve base price, regional pricing policy, discounts, taxes, and currency handling. |
 | Paid-release legal review | LICENSE, NOTICE, SECURITY, and Credits/Licenses proofs exist; public support repo mirrors LICENSE/NOTICE/SECURITY and the current public title Credits smoke for reviewers. Final external paid-release legal/store review is still open. Intake template: `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`. | Approve final store copy, license notices, privacy/telemetry wording, third-party acknowledgements, and copyright/publisher fields for sale. |
-| Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims and is summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: `docs/PLAYTEST_REPORTS/2026-07-07-public-release-scope-landing-evidence-v1.md`. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
+| Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims and is summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
 
 ## Publication blockers
 
-- External human full new-player completion QA: open in GitHub issue #1: <https://github.com/elias-leslie/the-aftertimes/issues/1>; public intake form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>.
-- Final external art/animation/audio critique where required for paid release: open in GitHub issue #2: <https://github.com/elias-leslie/the-aftertimes/issues/2>; public intake form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>; source template `.github/ISSUE_TEMPLATE/art_animation_audio_review.yml`.
+- External human full new-player completion QA: open in public support issue #1: <https://github.com/elias-leslie/the-aftertimes-support/issues/1>; public intake form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>.
+- Final external art/animation/audio critique where required for paid release: open in public support issue #2: <https://github.com/elias-leslie/the-aftertimes-support/issues/2>; public intake form: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>; source template `.github/ISSUE_TEMPLATE/art_animation_audio_review.yml`.
 - Windows runtime execution on native Windows or a fixed Wine setup: deferred for now by user direction; keep current Wine 9.0 failures as future platform QA evidence.
 - Final clean exported-build screenshots for NPC, combat, and reactor/elevator slots: closed for current internal evidence with native 1920×1080 capture and local visual inspection; external paid-release screenshot/art review remains a separate open blocker.
 - Final capsule/key art generation and internal A-Loom approval: closed for the current Steam/itch/library family; external paid-release review/store decisions remain separate blockers.
-- Store/legal/business fields: public support/project route and release scope / deferral packet now exist, but social links, dedicated press inbox, tax/regional pricing, platform account setup, final paid-release legal/store review via public intake form <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml> / source template `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`, and platform claims beyond current Linux proof remain open in GitHub issue #3: <https://github.com/elias-leslie/the-aftertimes/issues/3>.
+- Store/legal/business fields: public support/project route and release scope / deferral packet now exist, but social links, dedicated press inbox, tax/regional pricing, platform account setup, final paid-release legal/store review via public intake form <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml> / source template `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`, and platform claims beyond current Linux proof remain open in public support issue #3: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>.

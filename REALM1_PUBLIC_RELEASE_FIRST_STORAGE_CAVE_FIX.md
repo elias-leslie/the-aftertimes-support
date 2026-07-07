@@ -1,8 +1,8 @@
 # Realm 1 Public First-Storage Unrepaired-Cave Fix Proof
 
-Status: current public review package published; public redownload smoke passed; external QA/art/legal gates still open.
+Status: superseded GitHub Release lineage proof. The current source-fresh reviewer package is the repo-hosted `35a52259` ZIP linked in `REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md`; external QA/art/legal gates still open.
 
-Current public review build:
+Superseded public review build exercised for this proof:
 
 - Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
@@ -14,8 +14,9 @@ Current public review build:
 Why this refresh exists:
 
 - The previous public package `realm1-review-d3fc7d09` was built before the first-Storage unrepaired-cave input fix.
-- Fixed source proof: <https://github.com/elias-leslie/the-aftertimes/blob/main/docs/PLAYTEST_REPORTS/2026-07-03-first-storage-unrepaired-cave-build-v1.md>
-- Fixed runtime screenshot SHA256: `54a3e51c9db39a684fb0113d5418e9e0c26bed3bf7a65645be28790ab39431f8`
+- The first-Storage unrepaired-cave fix is included in the current repo-hosted `35a52259` package.
+- Current public package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
+- Current save/Continue runtime proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
 
 Public package smoke:
 

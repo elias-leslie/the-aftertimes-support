@@ -1,8 +1,8 @@
 # Realm 1 Public Release Storage -> Mira Prompt Smoke
 
-Status: current public review package redownloaded; tutorial prompt smoke passed; external QA/art/legal gates still open.
+Status: superseded GitHub Release lineage proof. The current source-fresh reviewer package is the repo-hosted `35a52259` ZIP linked in `REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md`; external QA/art/legal gates still open.
 
-Current public review build:
+Superseded public review build exercised for this prompt proof:
 
 - Release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
@@ -14,8 +14,9 @@ Current public review build:
 Why this refresh exists:
 
 - The previous public package `realm1-review-28b02d4d` was built before the Storage -> Mira tutorial prompt copy fix.
-- Fixed source proof: <https://github.com/elias-leslie/the-aftertimes/blob/main/docs/PLAYTEST_REPORTS/2026-07-03-tutorial-storage-mira-prompt-v1.md>
-- Fixed source screenshot SHA256: `5514c7b6b149551bdf9f3d4b078789fdbf81d6fd51d89600062b3405f250aa3e`
+- The prompt fix is included in the current repo-hosted `35a52259` package.
+- Current public package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_35A52259.md>
+- Current save/Continue runtime proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
 
 Public package smoke:
 
