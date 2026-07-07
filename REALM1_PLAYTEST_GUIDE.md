@@ -124,7 +124,7 @@ part of this playtest.
 | Cycle room plans | Left stick click |
 | Move build cursor | Right stick left/right |
 | Journal | Back |
-| Return surface | Right stick click |
+| Return to surface | Right stick click |
 | Pause | Start |
 
 ### Bunker-specific controls
