@@ -1,8 +1,8 @@
 # Realm 1 Public Repo-Hosted Review Package 1c6591fb
 
-Status: current source-fresh public Linux review package. Paid launch remains blocked on concrete current gates: visual critics are `PASS_WITH_FIXES`, store/legal/business/platform fields remain open, and release publication credentials/tooling need proof.
+Status: superseded source-fresh public Linux review package. The current package is `b1e41bab` in `REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md`. Paid launch remains blocked on concrete current gates: visual critics are `PASS_WITH_FIXES`, store/legal/business/platform fields remain open, and release publication credentials/tooling need proof.
 
-This page proves the current source/export commit is available as a repo-hosted ZIP while formal GitHub Release asset publication is still blocked by credentials/tooling. Use this ZIP for new public review and verification. The prior repo-hosted `682a0eb2` and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
+This page proves the current source/export commit is available as a repo-hosted ZIP while formal GitHub Release asset publication is still blocked by credentials/tooling. Do not use this ZIP for new public review unless specifically reproducing 1c6591fb lineage; use b1e41bab for current verification. The prior repo-hosted `682a0eb2` and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
 
 ## Package identity
 
@@ -66,6 +66,6 @@ chmod +x the-aftertimes.x86_64
 
 The hash should print `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`.
 
-## Remaining blockers
+## Remaining blockers at time of this superseded package
 
-This package refresh does not close every ship gate. Completion QA is currently `PASS` via deterministic no-injection proof. Audio/SFX is `PASS` via metrics plus Agent Hub verifier. Visual/graphics is `PASS_WITH_FIXES`, with concrete UI/text/detail/radiation-haze polish remaining. Legal/store/business/platform stays open for field decisions and credentials/tooling proof.
+This package refresh did not close every ship gate. Completion QA is currently `PASS` via deterministic no-injection proof. Audio/SFX is `PASS` via metrics plus Agent Hub verifier. Visual/graphics is `PASS_WITH_FIXES`, with concrete UI/text/detail/radiation-haze polish remaining. Legal/store/business/platform stays open for field decisions and credentials/tooling proof.

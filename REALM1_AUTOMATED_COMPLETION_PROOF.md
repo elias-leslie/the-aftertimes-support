@@ -1,31 +1,31 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: current deterministic no-injection completion proof for the `1c6591fb` source/package line. It is the active completion QA evidence gate unless concrete runtime failures are found.
+Status: current deterministic no-injection completion proof for the `b1e41bab` source/package line. It is the active completion QA evidence gate unless concrete runtime failures are found.
 
-Use this as current proof that the `1c6591fb` review package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but paid launch is not blocked on vague human review.
+Use this as current proof that the `b1e41bab` review package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but paid launch is not blocked on vague human review.
 
 ## Build under review
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
-- ZIP bytes: `63,386,281`
-- Runtime/export commit: `1c6591fb`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Zip SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
+- ZIP bytes: `63,586,751`
+- Runtime/export commit: `b1e41bab`
 - Linux executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
-- Godot pack SHA256: `88ec801ccde394fba436c8d1bc8a97bf115b9464538eef1079aa8522535c9b17`
+- Godot pack SHA256: `c2d00a6f492598b8519caf575610b354a27a2ff2c5833804960b31687564d6a6`
 - Superseded lineage: prior repo-hosted `682a0eb2`/`35a52259` packages and GitHub Release asset <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Scope: prerelease external-review package, not a public paid launch.
 
 ## What the scripted proof covers
 
-The current `1c6591fb` no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
+The current `b1e41bab` no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
 
 It does **not** use debug inventory, save editing, console commands, or a preloaded late-game save. It uses a fixed proof seed and scripted input, so it is an agentic/deterministic completion gate; public unaided playtest feedback remains welcome but is not a human-review blocker.
 
 ## Public artifact
 
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>  
-  SHA256 `a029d94df02890d40dec12a99d79aff78f15d3e86f32681392bf75fac771ed5d`
+  SHA256 `72686288b998621a2098d326d3541204cec9128b5444333a7c02dde4f12391ca`
 
 ## Key milestones verified
 
@@ -46,4 +46,4 @@ Submit optional public QA feedback here:
 
 <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
 
-Paid launch is no longer blocked by issue #1 or vague human QA. It remains blocked by the current concrete gates: visual/graphics `PASS_WITH_FIXES`, store/legal/platform fields, and credential-bound publication proof.
+Paid launch is no longer blocked by issue #1 or vague human QA. It remains blocked by the current concrete gates: store/legal/platform fields and credential-bound publication proof.

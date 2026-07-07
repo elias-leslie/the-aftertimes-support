@@ -1,6 +1,6 @@
 # Realm 1 Agentic Release Quality Gates
 
-Status: current agentic art/audio/release-quality gate evidence for `1c6591fb`.
+Status: current agentic art/audio/release-quality gate evidence for `b1e41bab`.
 
 This page supersedes older wording that treated paid launch as blocked on vague human review. Current completion gates use deterministic runtime proof, A-Loom/runtime asset handoffs, Agent Hub visual/audio reviewers, and concrete release-field decisions.
 
@@ -21,7 +21,7 @@ This page supersedes older wording that treated paid launch as blocked on vague 
 
 ## Public proof links
 
-- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
+- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Current completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 - Current art/audio packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
 - Visual release polish proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_VISUAL_RELEASE_POLISH_V1.md>

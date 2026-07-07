@@ -2,10 +2,10 @@
 
 Status: **public proof for the legal/store/business checklist; not legal approval.**
 
-This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a redownloaded public-package title Credits smoke from the current `1c6591fb` review build. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
+This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a current `b1e41bab` source title Credits smoke exported to the public support packet; the repo-hosted package uses the same current `.pck` content. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
-- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Current title Credits smoke package: repo-hosted `1c6591fb` ZIP (redownloaded 2026-07-07).
+- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Current title Credits smoke package: current `b1e41bab` source proof exported 2026-07-07.
 - Superseded title Credits smoke lineage: prior repo-hosted `682a0eb2`/`35a52259` packages and <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Public license: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Public notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
@@ -18,13 +18,13 @@ This page mirrors current runtime proof for the title Credits / Licenses panel a
 |---|---|---|---|
 | Title Credits / Licenses | [`realm1-title-credits-licenses-proof.png`](./realm1-title-credits-licenses-proof.png) | `a65531181c5f425e566a672ad130d1ab5238c86004ac9da052bf26919822470a` | `The AfterTimes v0.1.0`, five saved colonies, `Godot 4.7`, `Noto Sans Display (OFL)`, and `License / Notice`. |
 | Endgame Credits / Licenses | [`realm1-endgame-credits-licenses-proof.png`](./realm1-endgame-credits-licenses-proof.png) | `f27f1432d650eef65277113f4fa9e079c9ccbf914e285112262290c46789f4a8` | `Credits / Licenses`, realm/crew roll, `Godot 4.7`, `Noto Sans Display (OFL)`, and license notice included. |
-| Public package title Credits / Licenses smoke | [`public-release-title-credits-smoke.png`](./public-release-title-credits-smoke.png) | `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4` | Redownloaded repo-hosted `1c6591fb` opened from the title menu under Xvfb; shows `The AfterTimes v0.1.0`, five saved colonies, `Godot 4.7`, `Noto Sans Display (OFL)`, and `License / Notice`. |
+| Current b1e41bab source title Credits / Licenses smoke | [`public-release-title-credits-smoke.png`](./public-release-title-credits-smoke.png) | `eefc6cb49aca2b31ba245b1ad7405ba12cd325cb2d321c5e50810d0a1a6b0329` | Current `b1e41bab` source title menu opened under Xvfb; shows `The AfterTimes v0.1.0`, five saved colonies, `Godot 4.7`, `Noto Sans Display (OFL)`, and `License / Notice`. |
 
-## Public package smoke
+## Current source/package proof
 
-- Runtime path: redownloaded the current repo-hosted `1c6591fb` public zip on 2026-07-07, verified ZIP/executable/PCK hashes, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, closed it, and verified the game stayed running.
-- Result: title Credits / Licenses panel opened and closed; game output had no runtime error or script failure markers. The smoke log includes known Xvfb/xdotool focus warnings from window control, not game-output errors.
-- Current `1c6591fb` package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
+- Runtime path: current `b1e41bab` source title menu under Xvfb, moved title selection to **Credits / Licenses**, opened the panel, captured it, closed it, and verified class-select was not entered.
+- Result: title Credits / Licenses panel opened and closed; game output had no script-failure markers. The smoke log includes the known headless Xvfb V-Sync/resource-cleanup warnings, not player-facing runtime failures.
+- Current `b1e41bab` package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 
 ## Source evidence summary
 

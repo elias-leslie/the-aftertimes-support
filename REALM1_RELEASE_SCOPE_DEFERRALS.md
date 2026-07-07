@@ -6,13 +6,13 @@ Use this as the decision checklist for the current paid-release review. Do not p
 
 ## Build under review
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Public package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Public package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
-- ZIP bytes: `63,386,281`
-- Runtime/export commit: `1c6591fb`
+- Zip SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
+- ZIP bytes: `63,586,751`
+- Runtime/export commit: `b1e41bab`
 - Scope: prerelease external-review package, not a public paid launch.
 
 ## Proposed release scope if reviewers approve

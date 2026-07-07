@@ -6,20 +6,20 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Build under review
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
-- ZIP bytes: `63,386,281`
-- Runtime/export commit: `1c6591fb`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Zip SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
+- ZIP bytes: `63,586,751`
+- Runtime/export commit: `b1e41bab`
 - Scope: prerelease review package, not a public paid launch.
-- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
+- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Automated no-injection completion proof for the current `1c6591fb` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+- Automated no-injection completion proof for the current `b1e41bab` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 
 ## Visual and store-art artifacts
 
-- Launch screenshot contact sheet for `1c6591fb`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-1c6591fb.png>
-  SHA256 `d1de726b9f2dee02898e342801c21f213ad1dc2d381035390c0a64d1bd03b9ec`
+- Launch screenshot contact sheet for `b1e41bab`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-b1e41bab.png>
+  SHA256 `aaad370c9cbde3f9a27672eafa29eeaf44ff142026652359c2c712f138352ae5`
 - Capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>
   SHA256 `9e673f4d7a172a79a3e3b1eb40e8dca7291245e64c99656890e4bf0d038e02f3`
 - A-Loom capsule review: <https://a-loom.summitflow.dev/?asset=aftertimes_capsule_family_v1_review&version=ver-d8560b35331e4832b5a49f1056fef725&play=0&zoom=1>
@@ -27,7 +27,7 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Current public-package runtime visual proof
 
-Use the source-fresh `1c6591fb` package first for any new running-game review.
+Use the source-fresh `b1e41bab` package first for any new running-game review.
 The previous `682a0eb2` exported-package proof below remains supplemental lineage for the pause Controls `Return to Surface` label.
 
 - Exported-package Return to Surface control-label proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-package-return-to-surface-control-label-682a0eb2.png>
@@ -38,7 +38,7 @@ The previous `682a0eb2` exported-package proof below remains supplemental lineag
 
 The title/class-select/gameplay/first-build/surface-return/surface-movement
 and save/Continue smokes below are previous `682a0eb2` public runtime-smoke
-proofs retained as supplemental lineage for the current `1c6591fb` package.
+proofs retained as supplemental lineage for the current `b1e41bab` package.
 
 - Previous 682a0eb2 surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
   SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`

@@ -15,13 +15,13 @@ craft reactor parts, steady the Geothermal Reactor, save, quit, and continue.
 
 Public review package:
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
-- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
-- ZIP bytes: `63,386,281`
-- Runtime/export commit: `1c6591fb`
+- Zip SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
+- ZIP bytes: `63,586,751`
+- Runtime/export commit: `b1e41bab`
 
 Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted folder.
 
@@ -32,13 +32,13 @@ Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted fold
 Download and extract the public Linux review zip, then run:
 
 ```bash
-sha256sum the-aftertimes-realm1-linux-1c6591fb.zip
-unzip the-aftertimes-realm1-linux-1c6591fb.zip
+sha256sum the-aftertimes-realm1-linux-b1e41bab.zip
+unzip the-aftertimes-realm1-linux-b1e41bab.zip
 chmod +x the-aftertimes.x86_64
 ./the-aftertimes.x86_64
 ```
 
-The hash should print `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`.
+The hash should print `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`.
 
 Public Windows/macOS/web/mobile packages are not part of this review packet; judge the Linux build above.
 
@@ -211,12 +211,12 @@ These are intentionally not part of the current Realm 1 playtest verdict:
 - Realms 2-6 content. They remain roadmap content after Realm 1 is proven.
 - macOS, web, mobile, controller remapping, or platform certification.
 - Cloud saves, multiplayer, or online telemetry.
-- Final store page/capsule/trailer polish.
-- Final paid-release art approval. Current Realm 1 art/animation is wired and playtestable, but still replaceable if final critique finds a weak visible loop.
+- Final store page/trailer publication decisions.
+- Vague human art approval. Current Realm 1 art/animation is wired and passes the agentic/runtime visual gate; reopen only for a concrete failed runtime/A-Loom/Agent Hub proof or accepted scope change.
 
 ## Known pre-QA caveats
 
-- Realm 1 remains **not ship-ready** until current concrete gates pass: visual critics are currently `PASS_WITH_FIXES`, store/legal/platform fields remain open, and release publication proof is credential/tooling-blocked. Completion QA and audio/SFX currently pass.
+- Realm 1 remains **not ship-ready** only because store/legal/platform fields remain open and release publication proof is credential/tooling-blocked. Completion QA, visual/graphics, and audio/SFX currently pass through deterministic runtime, A-Loom/runtime, and Agent Hub proof.
 - Windows/macOS/web/mobile runtime proof is deferred; do not use this packet for non-Linux platform claims.
 - Optional Agent Hub / LLM dialogue is not required; fallback dialogue keeps the game playable offline.
 - This is a prerelease external-review package, not a public paid launch.

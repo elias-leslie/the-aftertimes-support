@@ -25,7 +25,7 @@ Include privately:
 
 | Version | Supported |
 |---------|-----------|
-| current public review package `1c6591fb` | Yes |
+| current public review package `b1e41bab` | Yes |
 | older snapshots | No |
 
 ## Response Expectations
