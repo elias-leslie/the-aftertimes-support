@@ -33,6 +33,7 @@ Current public review build:
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
   - Includes the current a539 evidence snapshot: Linux zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`, launch contact SHA `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`, automated completion contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`, save/Continue smoke SHA `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`, surface-movement smoke SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`, and title Credits smoke SHA `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
+  - Proposed paid-release scope, if reviewers approve: Realm 1 / first-chapter Early Access, Linux-only platform claims, GitHub Pages/issues as public support route, local-only JSONL/no-network telemetry wording, and explicit deferrals for Windows runtime, macOS, web, mobile, multiplayer, Realms 2-6, dedicated press inbox/social links, and private platform/tax/payout details.
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
   - Credits proof page references current public package `realm1-review-a5392e7c`.
   - Title Credits public-package smoke SHA: `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
@@ -64,6 +65,14 @@ Current external release gates:
 - External QA: open until a fresh unaided completion playtest reports PASS, or an accepted MIXED/deferral, through the playtest form.
 - Art / animation / audio: open until running-game plus artifact review reports PASS, or an accepted MIXED/deferral, through the art/audio form.
 - Legal / store / business: open until store/legal/platform/pricing fields are approved, or accepted deferrals are listed, through the legal/store form.
+
+Current proposed release scope remains under review:
+
+- Product claim: The AfterTimes — Realm 1 as a first-chapter Early Access candidate.
+- Platform claim: Linux only until another platform has native runtime proof.
+- Contact/support claim: GitHub Pages plus public GitHub support/review issues, unless reviewers require a dedicated inbox/site.
+- Privacy claim: local-only JSONL playtest telemetry; no network analytics.
+- Deferred claims needing approval or future proof: Windows runtime, macOS, web, mobile, multiplayer/RTS hosting, Realms 2-6 playable scope, dedicated press/social channels, and any platform claim beyond Linux.
 
 For playtest feedback, art/audio review notes, store/legal review notes, or launch-support questions, open an issue here and include the build hash or review package URL you used.
 
