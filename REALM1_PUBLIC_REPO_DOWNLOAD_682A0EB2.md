@@ -44,11 +44,24 @@ Publicly visible pre-publication evidence:
 Public redownload verification is summarized here so external reviewers do not
 need private/source-repo access.
 
-- Public ZIP fetch: pending until this support repository update is pushed.
-- Public ZIP SHA256: pending.
-- Extracted inner hash check: pending.
-- Extracted Linux build headless smoke: pending.
-- Public support page fetch/browser check: pending.
+- Public ZIP fetch: HTTP `200`, content type `application/zip`, downloaded bytes
+  `63,382,521`, effective URL
+  `https://raw.githubusercontent.com/elias-leslie/the-aftertimes-support/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip`.
+- Public ZIP SHA256 matched
+  `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`.
+- Extracted inner hashes matched the executable, `.pck`, manifest, packaged
+  guide/docs, and README identities from `SHA256SUMS.txt`.
+- Extracted Linux build completed `./the-aftertimes.x86_64 --headless --quit-after 60`.
+- Public README, proof doc, and GitHub Pages support page fetches returned HTTP
+  `200` with current `682a0eb2`, ZIP SHA, launch-contact, and `Return to Surface`
+  markers.
+- Browser check of <https://elias-leslie.github.io/the-aftertimes-support/#current-review-build>
+  reported `errors=0`, `warnings=0`, `network=0`, `command_warnings=0`;
+  screenshot SHA256 `ceced0d4019686f5f7b83290c53e077352d14d0efb010ee6d476f850f76cf0c0`.
+- Verification log SHAs: public download/smoke
+  `dd57fc402e31280ce12d7325f2421d5c8eea6e691020335c59076462aced6bcd`,
+  public support raw fetch `ff414c9cb8c2cce66cd05d4f6610eb89318153e9c4545ef04de3cf7fe22f0a66`,
+  browser check `de4fccf505f33ca51bcd1b8a6e19f8666ac4a9a2b5583576bf5f5cbc73573658`.
 
 ## Public runtime basic-smoke lineage
 
