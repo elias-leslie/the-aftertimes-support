@@ -60,7 +60,7 @@ need private/source-repo access.
   screenshot SHA256 `ceced0d4019686f5f7b83290c53e077352d14d0efb010ee6d476f850f76cf0c0`.
 - Verification log SHAs: public download/smoke
   `dd57fc402e31280ce12d7325f2421d5c8eea6e691020335c59076462aced6bcd`,
-  public support raw fetch `ff414c9cb8c2cce66cd05d4f6610eb89318153e9c4545ef04de3cf7fe22f0a66`,
+  public support raw fetch `67e1053a0f041f8e5280609723c8b39ccf8e6d4eb3754b098d29cfbb5ce9fa6a`,
   browser check `de4fccf505f33ca51bcd1b8a6e19f8666ac4a9a2b5583576bf5f5cbc73573658`.
 
 ## Public runtime basic-smoke lineage
