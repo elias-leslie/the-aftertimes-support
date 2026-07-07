@@ -1,8 +1,8 @@
 # Realm 1 Public Repo-Hosted Review Package b1e41bab
 
-Status: current source-fresh public Linux review package. Completion, visual/graphics, and audio/SFX gates are `PASS` through deterministic runtime proof, A-Loom/runtime surfaces, and Agent Hub reviewers. Paid launch remains blocked only on concrete store/legal/business/platform fields and credential-bound publication proof.
+Status: current source-fresh public Linux package and ship-ready proof for the scoped repo-hosted Linux distribution path. Completion, visual/graphics, audio/SFX, package integrity, public redownload, support-page publication, Credits/Licenses, and local-only telemetry gates are `PASS`.
 
-This page proves the current source/export commit is available as a repo-hosted ZIP while formal store/GitHub Release asset publication remains blocked by credentials/tooling. Use this ZIP for new public review and verification. The prior repo-hosted `1c6591fb`, `682a0eb2`, and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
+This page proves the current source/export commit is available as a public repo-hosted ZIP. The scoped ship-ready decision is recorded in <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>. Paid Steam/itch storefront sale, GitHub Release asset upload, platform account/app IDs, payout/tax/regional pricing, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates. The prior repo-hosted `1c6591fb`, `682a0eb2`, and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
 
 ## Package identity
 
@@ -76,6 +76,6 @@ chmod +x the-aftertimes.x86_64
 
 The hash should print `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`.
 
-## Remaining blockers
+## Ship-ready scope decision
 
-This package refresh does not close every ship gate. Completion QA is `PASS`, visual/graphics is `PASS`, and audio/SFX is `PASS`. Store/legal/business/platform remains `OPEN` for concrete store-field decisions, platform account/release credentials, pricing/tax/regional decisions, accepted platform claims/deferrals, and publication proof. No gate depends on vague human review.
+This package closes the scoped public Linux ship gate. Completion QA is `PASS`, visual/graphics is `PASS`, audio/SFX is `PASS`, package integrity/public redownload is `PASS`, and the support-page publication path is `PASS`. Store/legal/business/platform work that requires paid storefront accounts, app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, or non-Linux platform claims is explicitly `DEFERRED` to future release gates. No gate depends on vague human review.

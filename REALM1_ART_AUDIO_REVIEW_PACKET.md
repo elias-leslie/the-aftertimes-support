@@ -1,6 +1,6 @@
 # Realm 1 Public Art / Audio Review Packet
 
-Status: public artifact packet for current agentic art/audio release-quality evidence. It does **not** approve paid launch by itself.
+Status: public artifact packet for current agentic art/audio release-quality evidence. It supports the scoped Linux public package; paid storefront launch remains a deferred future gate.
 
 Review the running Linux build first, then use these public artifacts for still-frame, motion, store-art, and audio-identity checks.
 
@@ -11,7 +11,7 @@ Review the running Linux build first, then use these public artifacts for still-
 - Zip SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
 - ZIP bytes: `63,586,751`
 - Runtime/export commit: `b1e41bab`
-- Scope: prerelease review package, not a public paid launch.
+- Scope: public repo-hosted Linux package release, not a public paid storefront launch.
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Automated no-injection completion proof for the current `b1e41bab` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
@@ -86,6 +86,6 @@ Current agentic release-quality summary:
 - Audio/SFX: `PASS` from deterministic metrics plus Agent Hub verifier; reactor hum is now a 30.040816s runtime loop.
 - Public gate summary: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AGENTIC_RELEASE_QUALITY_GATES.md>
 
-Public feedback can still be submitted here, but paid launch is not blocked on vague human review:
+Public feedback can still be submitted here, but the scoped Linux package is not blocked on vague human review:
 
 <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>

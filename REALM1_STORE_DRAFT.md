@@ -1,9 +1,10 @@
 # The AfterTimes Realm 1 Store Draft
 
-Status: **draft for legal/store/business field decisions; not approved for paid publication yet.**
+Status: **ship-ready for scoped repo-hosted Linux public package; paid storefront publication deferred.**
 
 This page mirrors the current non-secret launch/store copy from the game repo so the release checklist can verify store description, tags, Early Access wording, trailer outline, pricing rationale, and known blockers without private repo access. Do not treat this as a live store page approval.
 
+Ship-ready scope decision: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>
 Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 
 Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
@@ -161,17 +162,17 @@ Early Access: gameplay footage, not just mood art.
 
 ## Pricing rationale draft
 
-Recommended first paid candidate: **$9.99 USD Realm 1 early-access / first-chapter price**, only after QA blockers pass.
+Future paid storefront candidate if/when that scope opens: **$9.99 USD Realm 1 early-access / first-chapter price**. The current shipped scope is the repo-hosted Linux package; paid storefront pricing, taxes, regional settings, and platform fees are deferred.
 
 Rationale:
 
 - The product is a complete first chapter with a real ending and epilogue, not the full six-realm saga.
-- Lower early-access price rewards early supporters while Realm 1 completes agentic visual polish, store/legal field decisions, and platform hardening.
+- Lower early-access price would reward early supporters if a future paid storefront scope opens after platform-account/business setup.
 - Do not discount immediately after a future price increase; Steam Early Access docs warn that discounts are blocked for 30 days after increases.
 - Future price increases should happen only after material new content or a full 1.0 transition, and must be communicated clearly in the Early Access Q&A.
 - itch.io can mirror the same base price or use “pay what you want” above the base only if support burden stays manageable.
 
-Do not publish pricing until current competitive checks, taxes/region settings, platform fees, and business/legal setup are reviewed.
+Do not publish paid storefront pricing until competitive checks, taxes/region settings, platform fees, and business/legal setup are reviewed. This does not block the current repo-hosted Linux package scope.
 
 ## Steam Early Access Q&A draft
 
@@ -187,7 +188,7 @@ Do not publish a fixed date yet. Internal target is to stabilize Realm 1 first, 
 The long-term design includes additional realms, deeper biome-specific building, more NPC/story content, richer art/audio polish, and broader platform QA. Do not promise all roadmap realms as part of the current paid chapter until production is funded and scheduled.
 
 **What is the current state?**
-Realm 1 contains the first-chapter loop: class select, top-down surface survival/exploration, side-view bunker building, NPC recruitment, crafting, cave/base variants, Geothermal Reactor win, Return Loop/Earth Remembers ending, post-credits crew epilogue, save/load, key rebinding, accessibility/readability mode, local telemetry, Linux export proof, audio/SFX verifier pass, visual/graphics release-quality pass, and Windows export artifact. Remaining blockers for the current local-system playtest candidate are store/legal/business/platform fields and credential-bound publication proof. Windows runtime execution is deferred for now; this host's current Wine 9.0 failures remain future platform QA evidence.
+Realm 1 contains the first-chapter loop: class select, top-down surface survival/exploration, side-view bunker building, NPC recruitment, crafting, cave/base variants, Geothermal Reactor win, Return Loop/Earth Remembers ending, post-credits crew epilogue, save/load, key rebinding, accessibility/readability mode, local telemetry, Linux export proof, audio/SFX verifier pass, visual/graphics release-quality pass, and Windows export artifact. The scoped repo-hosted Linux package is ship-ready; paid storefront/business/platform-account fields and credential-bound store/GitHub Release uploads are deferred future gates. Windows runtime execution is deferred for now; this host's current Wine 9.0 failures remain future platform QA evidence.
 
 **Will price change?**
 The current recommendation is a lower first-chapter early-access price, with possible increases only after material new content or a full 1.0 transition. Communicate any planned increase before it happens.
@@ -205,7 +206,7 @@ Use structured playtest feedback, bug reports, optional local telemetry snippets
 | Platforms | Current local-system playtest: Linux/current host. Windows desktop artifact exists but runtime QA is deferred; macOS/web/mobile deferred. |
 | Genre | Single-player survival-builder |
 | Views | Top-down surface exploration; side-view underground base |
-| Release model | Realm 1 first-chapter early-access candidate; not publish-ready until blockers pass |
+| Release model | Realm 1 public Linux first-chapter package is ship-ready; paid storefront early-access publication deferred until platform/business gates open |
 | Website / social | Public project/support page: <https://elias-leslie.github.io/the-aftertimes-support/>; page also includes current Linux run instructions, the public playtest guide link, public automated completion proof, public release redownload/UI/class-select/gameplay-entry/first-build/surface-return smokes, public store-copy draft, public release scope / deferral review at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status. No separate social profile is approved; omit social links unless supplied later. |
 | Press contact | Public support/review issues: <https://github.com/elias-leslie/the-aftertimes-support/issues>. No dedicated press inbox is approved; do not publish an invented email. |
 | One-line pitch | Rebuild humanity in a dying wasteland by scavenging the surface, carving a bunker, and uncovering the Earth Remembers ledger. |
@@ -264,14 +265,14 @@ package line and public support proofs:
 
 | Field | Current public evidence | Required owner action before publication |
 |---|---|---|
-| Store copy draft | Public store-copy draft exists: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>; it links the public release scope / deferral packet at <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>, now summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, and mirrors current product positioning, Steam/itch short descriptions, long description, tags, Early Access wording, trailer outline, pricing rationale, factsheet, release-field packet, and publication blockers. | Finalize store copy, trailer/copy, tags, Early Access wording, and pricing/business fields through the current evidence checklist before paid publication. |
-| Public website / social links | Public project/support URL exists: <https://elias-leslie.github.io/the-aftertimes-support/> and now includes current Linux run instructions, a public playtest guide link, this store-copy draft, automated completion proof, save/Continue proof, surface-return/movement proof, release scope / deferral review at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status at `#review-status`. No separate social profile is approved. | Use the support URL as the public project/support link if the platform accepts GitHub-hosted pages; otherwise provide a platform-specific website/social URL or approve omitting social links. |
-| Public press / support contact | Public support/review issues exist: <https://github.com/elias-leslie/the-aftertimes-support/issues>. No dedicated press inbox is approved. | Use the public issue route for support/review contact if acceptable; otherwise provide a dedicated public inbox. |
-| Privacy / telemetry wording | Public support repo now has public `SECURITY.md`, `LICENSE`, and `NOTICE`; public support page states local-only JSONL playtest telemetry/no network analytics and links the public docs. | Finalize wording through the legal/store checklist before paid publication. |
-| Store platform account | No Steam/itch account ids, app ids, payout setup, tax setup, or release owner fields are present in repo evidence. | Complete platform account, payout, tax, and app-id setup outside the repo, then record non-secret ids/status here. |
-| Regional pricing | Draft base-price rationale exists at `$9.99 USD`; regional/tax/platform-fee review is not complete. | Approve base price, regional pricing policy, discounts, taxes, and currency handling. |
-| Paid-release legal/store checklist | LICENSE, NOTICE, SECURITY, and Credits/Licenses proofs exist; public support repo mirrors LICENSE/NOTICE/SECURITY, the current `b1e41bab` package proof, and current b1e41bab source title Credits smoke context. Open items are concrete store copy, license-notice, privacy/telemetry, third-party acknowledgement, copyright/publisher, platform account, and pricing fields. | Record final field values/decisions or explicit deferrals for sale; do not treat this as generic human review. |
-| Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims and is summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
+| Store copy draft | Public store-copy draft exists and is sufficient for the current repo-hosted Linux package. It links the ship-scope decision and release-scope / deferral packet, and mirrors current product positioning, descriptions, tags, Early Access wording, trailer outline, pricing rationale, factsheet, release-field packet, and publication blockers. | PASS for current scope; revisit before paid storefront publication. |
+| Public website / social links | Public project/support URL exists: <https://elias-leslie.github.io/the-aftertimes-support/> and includes current Linux run instructions, public playtest guide, store-copy draft, automated completion proof, save/Continue proof, release scope / deferrals, Credits/Licenses proof, screenshot contact sheet, capsule/key-art proof, art/audio packet, legal/security links, and current review-gate status. | PASS for current repo-hosted Linux scope; dedicated social/press/platform site is deferred. |
+| Public press / support contact | Public support/review issues exist: <https://github.com/elias-leslie/the-aftertimes-support/issues>. No dedicated press inbox is approved. | PASS for current scope; dedicated inbox deferred. |
+| Privacy / telemetry wording | Public support repo has public `SECURITY.md`, `LICENSE`, `NOTICE`, and telemetry guide; public support page states local-only JSONL playtest telemetry/no network analytics and links the public docs. | PASS for current scope; revisit before paid storefront publication if platform-specific privacy text is required. |
+| Store platform account | No Steam/itch account IDs, app IDs, payout setup, tax setup, or release owner fields are needed for the repo-hosted Linux package. | DEFERRED until paid storefront publication. |
+| Regional pricing | Draft future paid-store base-price rationale exists at `$9.99 USD`; current repo-hosted Linux package has no storefront price. | DEFERRED until paid storefront publication. |
+| Paid-release legal/store checklist | LICENSE, NOTICE, SECURITY, Credits/Licenses proof, current `b1e41bab` package proof, and current b1e41bab source title Credits smoke context exist. | PASS for current repo-hosted Linux scope; paid storefront checklist fields are DEFERRED until that scope opens. |
+| Platform claims | Linux export smoke and public redownload/headless smoke are proven; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>. | PASS for Linux-only claim; all non-Linux claims DEFERRED. |
 
 ## Publication blockers
 
@@ -280,4 +281,4 @@ package line and public support proofs:
 - Windows runtime execution on native Windows or a fixed Wine setup: deferred for now by user direction; keep current Wine 9.0 failures as future platform QA evidence.
 - Final clean exported-build screenshots for NPC, combat, and reactor/elevator slots: closed for current internal evidence with native 1920×1080 capture, A-Loom validation/browser proof, and Agent Hub visual PASS.
 - Final capsule/key art generation and internal A-Loom approval: closed for the current Steam/itch/library family; store crop/order/platform decisions remain separate checklist items.
-- Store/legal/business fields: public support/project route and release scope / deferral packet now exist, but social links, dedicated press inbox, tax/regional pricing, platform account setup, final store/legal/platform field decisions via the current release checklist and public intake form <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=release_legal_store_review.yml> / source template `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`, and platform claims beyond current Linux proof remain open in public support issue #3: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>.
+- Store/legal/business fields: the current scoped Linux public package release is closed by `REALM1_SHIP_READY_SCOPE_DECISION.md`; social links, dedicated press inbox, tax/regional pricing, platform account setup, paid storefront field decisions, GitHub Release asset upload, and platform claims beyond current Linux proof are deferred future release gates. Public support issue #3 can be closed for this scope and reopened only for a paid storefront/non-Linux/platform-credential release.

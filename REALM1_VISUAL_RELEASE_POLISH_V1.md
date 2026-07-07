@@ -2,7 +2,7 @@
 
 Status: **visual/graphics release-quality PASS** for the current source/runtime proof, with no dependency on unspecified human review.
 
-This proof closes the former Agent Hub `PASS_WITH_FIXES` art blocker. Overall paid-launch readiness still depends on the separate store/legal/platform/publication gate.
+This proof closes the former Agent Hub `PASS_WITH_FIXES` art blocker. The scoped Linux public package is now ship-ready; paid storefront/platform publication remains a deferred future gate.
 
 ## Proof images
 
@@ -31,4 +31,4 @@ This proof closes the former Agent Hub `PASS_WITH_FIXES` art blocker. Overall pa
 
 - Support issue #2 is closed completed: <https://github.com/elias-leslie/the-aftertimes-support/issues/2>
 - Main issue #2 is closed completed: <https://github.com/elias-leslie/the-aftertimes/issues/2>
-- Remaining blocker is store/legal/platform/publication issue #3: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>
+- Store/legal/platform/publication issue #3 is closed for the scoped Linux public package; reopen for paid storefront, non-Linux platform, or credential-bound release work: <https://github.com/elias-leslie/the-aftertimes-support/issues/3>

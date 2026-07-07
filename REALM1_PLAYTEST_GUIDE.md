@@ -3,9 +3,9 @@
 Source guide date: 2026-06-18  
 Public support copy: 2026-07-07
 Build target: Realm 1 / **The AfterTimes** public Linux review package  
-Status: **pre-QA playtest candidate, not ship-ready**
+Status: **ship-ready for scoped repo-hosted Linux package; paid store/non-Linux platform publication deferred**
 
-Current scope note, 2026-07-07: this public guide targets the source-fresh repo-hosted Linux review package linked below. The GitHub Release asset `realm1-review-a5392e7c` is superseded for new review until release-asset publication catches up. Windows/macOS/web/mobile are not part of this public packet.
+Current scope note, 2026-07-07: this public guide targets the source-fresh repo-hosted `b1e41bab` Linux package linked below. Completion, visual/graphics, audio/SFX, package integrity, public redownload, Credits/Licenses, and local-only telemetry proof pass. Paid Steam/itch storefront publication, platform account/app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates.
 
 Use this guide to test the first-chapter loop: choose a survivor, explore the
 irradiated surface, find/enter the bunker, build rooms, recruit specialists,
@@ -52,15 +52,11 @@ Public Windows/macOS/web/mobile packages are not part of this review packet; jud
 6. Use the unlocked bunker elevator and confirm the road-home payoff.
 7. Save, quit to title, Continue, and confirm the win/reactor state survives load.
 
-## QA ship-gate rubric
+## Optional public QA rubric
 
-This is the human pass/fail bar for the open Realm 1 completion gate. A test
-does **not** count as a ship-gate pass if the player needed agent/dev help,
-walkthrough notes, debug inventory, save editing, console commands, or a
-preloaded late-game save.
+Completion is already proven by deterministic no-injection runtime evidence; this rubric is now optional feedback, not a human-review ship gate. A clean report should still avoid agent/dev help, walkthrough notes, debug inventory, save editing, console commands, or a preloaded late-game save.
 
-For a **PASS**, one external tester must complete a fresh run on the target
-build and report all of the following:
+For a strong public QA report, a tester should complete a fresh run on the target build and report all of the following:
 
 - Started from the title menu and chose a survivor without external help.
 - Reached the bunker from normal surface play.
@@ -191,7 +187,7 @@ private machine paths if you do not want them shared.
 
 ## What to judge
 
-Focus feedback on the parts that must be strong before Realm 1 can ship:
+Focus feedback on the parts that should stay strong after the scoped Linux package ships:
 
 - First-run clarity: did you know what to do without agent help?
 - Class choice: did the class card and start feel meaningful?
@@ -211,15 +207,16 @@ These are intentionally not part of the current Realm 1 playtest verdict:
 - Realms 2-6 content. They remain roadmap content after Realm 1 is proven.
 - macOS, web, mobile, controller remapping, or platform certification.
 - Cloud saves, multiplayer, or online telemetry.
-- Final store page/trailer publication decisions.
+- Paid Steam/itch store-page publication decisions, platform account setup, tax/payout/regional pricing, and store upload/crop choices.
+- Non-Linux platform certification or runtime claims.
 - Vague human art approval. Current Realm 1 art/animation is wired and passes the agentic/runtime visual gate; reopen only for a concrete failed runtime/A-Loom/Agent Hub proof or accepted scope change.
 
 ## Known pre-QA caveats
 
-- Realm 1 remains **not ship-ready** only because store/legal/platform fields remain open and release publication proof is credential/tooling-blocked. Completion QA, visual/graphics, and audio/SFX currently pass through deterministic runtime, A-Loom/runtime, and Agent Hub proof.
+- Realm 1 is ship-ready for the scoped repo-hosted Linux package; paid storefront publication and non-Linux platform claims remain deferred future release gates. Completion QA, visual/graphics, and audio/SFX pass through deterministic runtime, A-Loom/runtime, and Agent Hub proof.
 - Windows/macOS/web/mobile runtime proof is deferred; do not use this packet for non-Linux platform claims.
 - Optional Agent Hub / LLM dialogue is not required; fallback dialogue keeps the game playable offline.
-- This is a prerelease external-review package, not a public paid launch.
+- This is a public Linux package release, not a public paid storefront launch.
 
 ## Feedback format
 

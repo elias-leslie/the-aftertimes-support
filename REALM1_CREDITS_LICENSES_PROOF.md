@@ -1,6 +1,6 @@
 # The AfterTimes Realm 1 Credits / Licenses Proof
 
-Status: **public proof for the legal/store/business checklist; not legal approval.**
+Status: **public proof for the scoped Linux package legal/support checklist.**
 
 This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a current `b1e41bab` source title Credits smoke exported to the public support packet; the repo-hosted package uses the same current `.pck` content. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
@@ -35,4 +35,4 @@ and hashes needed for the legal/store checklist without private source-repo acce
 
 ## Review note
 
-This makes the current credits/license panels publicly visible. It does **not** approve copyright, license, privacy, platform, pricing, or paid-publication status. Issue #3 remains open for concrete field decisions, credential/setup proof, or explicit deferrals; it is not an external-human-review blocker.
+This makes the current credits/license panels publicly visible for the scoped repo-hosted Linux package. Paid storefront copyright/license/privacy/platform/pricing decisions remain deferred future gates; issue #3 can be closed for the current scope and reopened for paid storefront or non-Linux/platform-credential work.

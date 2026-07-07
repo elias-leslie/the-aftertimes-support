@@ -10,17 +10,18 @@ This page supersedes older wording that treated paid launch as blocked on vague 
 - Audio/SFX: `PASS` — 34 runtime audio files, 399.99s total, true-peak max -1.4 dBFS, 0 metric issues; Agent Hub verifier reports `STATUS: verified`.
 - Reactor hum: `PASS` — rebuilt from a 7s loop to a 30.040816s stereo MP3 loop at 128k, true peak -4.6 dBFS, with refreshed waveform proof.
 - Visual/graphics: `PASS` — second-pass runtime/A-Loom proof and Agent Hub critics verify UI hierarchy/button weight, keybinding legibility, bunker detail parity, and radiation haze texture.
-- Store/legal/platform: `OPEN` — not a human-review blocker; remaining items are concrete store fields, platform account/release decisions, accepted platform claims, and credential-bound publication proof.
+- Store/legal/platform: `PASS for scoped Linux repo-hosted publication` / `DEFERRED for paid storefronts` — package publication, public support route, legal/privacy/support docs, and Linux-only platform claim are complete; Steam/itch paid sale, platform account/app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates.
 
 
 ## Tracker status
 
 - Completion QA tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/1> is closed as superseded by deterministic runtime proof.
 - Visual/audio gate tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/2> is closed completed with final visual/audio `PASS`.
-- Store/legal/platform tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3> remains open for field decisions, accepted claims/deferrals, and credential-bound publication proof.
+- Store/legal/platform tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3> is closed for the scoped Linux public package; reopen only for paid storefronts, non-Linux platform claims, or credential-bound release uploads.
 
 ## Public proof links
 
+- Ship-ready scope decision: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>
 - Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 - Current completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 - Current art/audio packet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_ART_AUDIO_REVIEW_PACKET.md>
@@ -28,8 +29,8 @@ This page supersedes older wording that treated paid launch as blocked on vague 
 - Reactor hum waveform proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/reactor-hum-waveform-public-proof.png>
 - Credits/Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
 
-## What remains before paid launch
+## Deferred future storefront gates
 
-1. Finalize store/legal/business/platform fields and accepted platform claims.
-2. Publish through the chosen channel once credentials/tooling are available.
+1. Paid Steam/itch or GitHub Releases asset publication needs platform accounts, app IDs, payout/tax/regional pricing, and credential-bound upload proof.
+2. Non-Linux platform claims need native/fixed-runtime proof before publication.
 3. Refresh the exported package/screenshots only if future runtime visuals change again.

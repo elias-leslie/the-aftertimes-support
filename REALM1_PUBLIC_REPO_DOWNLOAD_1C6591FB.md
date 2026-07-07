@@ -1,6 +1,6 @@
 # Realm 1 Public Repo-Hosted Review Package 1c6591fb
 
-Status: superseded source-fresh public Linux review package. The current package is `b1e41bab` in `REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md`. Paid launch remains blocked on concrete current gates: visual critics are `PASS_WITH_FIXES`, store/legal/business/platform fields remain open, and release publication credentials/tooling need proof.
+Status: superseded source-fresh public Linux review package. The current package is `b1e41bab` in `REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md`; the scoped Linux ship-ready decision is `REALM1_SHIP_READY_SCOPE_DECISION.md`. This older page is lineage only.
 
 This page proves the current source/export commit is available as a repo-hosted ZIP while formal GitHub Release asset publication is still blocked by credentials/tooling. Do not use this ZIP for new public review unless specifically reproducing 1c6591fb lineage; use b1e41bab for current verification. The prior repo-hosted `682a0eb2` and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
 

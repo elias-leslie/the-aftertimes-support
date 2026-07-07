@@ -2,7 +2,7 @@
 
 Status: current deterministic no-injection completion proof for the `b1e41bab` source/package line. It is the active completion QA evidence gate unless concrete runtime failures are found.
 
-Use this as current proof that the `b1e41bab` review package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but paid launch is not blocked on vague human review.
+Use this as current proof that the `b1e41bab` package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but the scoped Linux package does not depend on vague human review.
 
 ## Build under review
 
@@ -14,7 +14,7 @@ Use this as current proof that the `b1e41bab` review package has a proven comple
 - Linux executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
 - Godot pack SHA256: `c2d00a6f492598b8519caf575610b354a27a2ff2c5833804960b31687564d6a6`
 - Superseded lineage: prior repo-hosted `682a0eb2`/`35a52259` packages and GitHub Release asset <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Scope: prerelease external-review package, not a public paid launch.
+- Scope: public repo-hosted Linux package release, not a public paid storefront launch.
 
 ## What the scripted proof covers
 
@@ -46,4 +46,4 @@ Submit optional public QA feedback here:
 
 <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
 
-Paid launch is no longer blocked by issue #1 or vague human QA. It remains blocked by the current concrete gates: store/legal/platform fields and credential-bound publication proof.
+Issue #1 and vague human QA no longer block release. The scoped Linux public package is ship-ready; paid storefront/platform-account and non-Linux publication gates are deferred future work.
