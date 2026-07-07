@@ -35,10 +35,26 @@ superseded release-lineage evidence.
 ## Public verification
 
 Public redownload verification is recorded in the game repo report
-`docs/PLAYTEST_REPORTS/2026-07-07-public-repo-download-35a52259-v1.md` after this
-support commit is pushed. Required pass criteria are: public ZIP download returns
-HTTP success, SHA256 equals `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`, extracted files match the inner export
-identity above, and the extracted Linux build completes a headless launch smoke.
+`docs/PLAYTEST_REPORTS/2026-07-07-public-repo-download-35a52259-v1.md` and proof
+bundle `docs/visual_proofs/2026-07-07-public-repo-download-35a52259-v1/`.
+
+- Public ZIP fetch: HTTP `200`, content type `application/zip`, downloaded bytes
+  `63,381,905`, effective URL
+  `https://raw.githubusercontent.com/elias-leslie/the-aftertimes-support/main/downloads/the-aftertimes-realm1-linux-35a52259.zip`.
+- Public ZIP SHA256 matched
+  `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`.
+- Extracted inner hashes matched the executable and `.pck` identities above.
+- Extracted Linux build completed `./the-aftertimes.x86_64 --headless --quit-after 60`.
+- Public support page fetch returned HTTP `200` and current `35a52259` markers.
+- Browser check of <https://elias-leslie.github.io/the-aftertimes-support/#current-review-build>
+  reported `errors=0`, `warnings=0`, `network=0`; screenshot SHA256
+  `2baecd8b6702b7018c7f4836835621b333b0fa8e480475c68fc5e38383c5cd04`.
+- Verification log SHAs: public download/smoke
+  `cc8341c411d46597cac8b661366e2ef879afb5092106cc6f0cb286f564383143`,
+  public support fetch
+  `2772ca1610ee9238743384e47138c4887336fb3a483a673e8d6674e9a48551c6`,
+  browser check
+  `ffc643964c011d04b88a4c1430ec7d17d305d2f5f40cd4558fb5669359b1c031`.
 
 ## Run on Linux
 
