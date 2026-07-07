@@ -194,7 +194,7 @@ Use structured playtest feedback, bug reports, optional local telemetry snippets
 | Genre | Single-player survival-builder |
 | Views | Top-down surface exploration; side-view underground base |
 | Release model | Realm 1 first-chapter early-access candidate; not publish-ready until blockers pass |
-| Website / social | Public project/support page: <https://elias-leslie.github.io/the-aftertimes-support/>; page also includes current Linux run instructions, the public playtest guide link, public automated completion proof, save/Continue proof, surface-return/movement proof, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status. No separate social profile is approved; omit social links unless supplied later. |
+| Website / social | Public project/support page: <https://elias-leslie.github.io/the-aftertimes-support/>; page also includes current Linux run instructions, the public playtest guide link, public automated completion proof, public release redownload/UI/class-select/gameplay-entry/first-build/surface-return smokes, public store-copy draft, public release scope / deferral review at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status. No separate social profile is approved; omit social links unless supplied later. |
 | Press contact | Public support/review issues: <https://github.com/elias-leslie/the-aftertimes-support/issues>. No dedicated press inbox is approved; do not publish an invented email. |
 | One-line pitch | Rebuild humanity in a dying wasteland by scavenging the surface, carving a bunker, and uncovering the Earth Remembers ledger. |
 
@@ -214,45 +214,54 @@ publish invented or unapproved links.
 Latest repo evidence refreshes now point at the current `realm1-review-a5392e7c`
 package line and public support proofs:
 
-- Public review package:
-  `docs/PLAYTEST_REPORTS/2026-07-03-public-review-release-after-tutorial-storage-mira-prompt-v1.md`;
-  zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
-- Launch screenshot contact sheet:
+- Current Linux export / launch screenshot proof:
+  `docs/PLAYTEST_REPORTS/2026-07-03-current-review-export-after-tutorial-storage-mira-prompt-v1.md`;
+  contact sheet
   `docs/visual_proofs/2026-07-03-current-review-export-after-tutorial-storage-mira-prompt-v1/launch-screenshots-v2-contact.png`;
   SHA `c9ca6eca793903762aea5cc100bab419392278513c68ba550d6665912bfb8eb6`.
-- Public automated completion proof:
+- Current public review package:
+  `docs/PLAYTEST_REPORTS/2026-07-03-public-review-release-after-tutorial-storage-mira-prompt-v1.md`;
+  zip SHA `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`.
+- Current public automated completion proof:
   `docs/PLAYTEST_REPORTS/2026-07-03-public-automated-completion-proof-after-tutorial-storage-mira-prompt-v1.md`;
   contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
-- Public save/Continue proof:
+- Current public save/Continue proof:
   `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-save-continue-after-tutorial-storage-mira-prompt-v1.md`;
   loaded-bunker screenshot SHA
   `a13b9790abad2af75a1b4f56797771ab6e1ea02dc6b938266efbc682fdf8f264`.
-- Public surface-return/movement proof:
+- Current public surface-return/movement proof:
   `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-surface-movement-after-tutorial-storage-mira-prompt-v1.md`;
   return SHA `1e368d416d4c201352812bb45afc328cfefac27a7f2fb88b80343641ba861667`;
   movement SHA `a6d09230f75bdf689f2aef850ad9e33837338f679c4f8c475f6ca0d67fe510f3`.
-- Public Credits / Licenses proof:
+- Current public Credits / Licenses proof:
   `docs/PLAYTEST_REPORTS/2026-07-04-public-review-release-title-credits-after-tutorial-storage-mira-prompt-v1.md`;
   public title screenshot SHA
   `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`.
-- Public art/audio packet proof:
+- Current public art/audio packet proof:
   `docs/PLAYTEST_REPORTS/2026-07-04-public-art-audio-current-package-proof-link-v1.md`.
+- Current public store landing proof:
+  `docs/PLAYTEST_REPORTS/2026-07-07-public-store-landing-evidence-v1.md`;
+  support anchor <https://elias-leslie.github.io/the-aftertimes-support/#store-draft>.
+- Current public release-scope / deferral landing proof:
+  `docs/PLAYTEST_REPORTS/2026-07-07-public-release-scope-landing-evidence-v1.md`;
+  support anchor <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>.
 - Public review status, legal/security, telemetry, playtest-guide,
-  blocker-tracker, intake-template, release-scope/deferral, capsule/key-art,
-  and business-field proofs remain the 2026-07-03 support-page proofs. Prior
+  blocker-tracker, intake-template, capsule/key-art, and
+  business-field proofs remain the 2026-07-03 support-page proofs. Prior
   business-field search proof:
   `docs/visual_proofs/2026-07-03-release-business-field-freshness-v1/business-field-search.txt`
   SHA `690d4136d5200df9bca2d8eea43e50836ef4a4fe6b78f8362408cfb83e2ec631`.
 
 | Field | Current repo evidence | Required owner action before publication |
 |---|---|---|
-| Public website / social links | Public project/support URL exists: <https://elias-leslie.github.io/the-aftertimes-support/> and now includes current Linux run instructions, a public playtest guide link, this store-copy draft, automated completion proof, save/Continue proof, surface-return/movement proof, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status at `#review-status`. No separate social profile is approved. | Use the support URL as the public project/support link if the platform accepts GitHub-hosted pages; otherwise provide a platform-specific website/social URL or approve omitting social links. |
+| Store copy draft | Public store-copy draft exists: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>; it links the public release scope / deferral packet at <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>, now summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, and mirrors current product positioning, Steam/itch short descriptions, long description, tags, Early Access wording, trailer outline, pricing rationale, factsheet, release-field packet, and publication blockers. | External legal/store reviewer must still approve store copy, trailer/copy, tags, Early Access wording, and pricing/business fields before paid publication. |
+| Public website / social links | Public project/support URL exists: <https://elias-leslie.github.io/the-aftertimes-support/> and now includes current Linux run instructions, a public playtest guide link, this store-copy draft, automated completion proof, save/Continue proof, surface-return/movement proof, release scope / deferral review at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>, Credits/Licenses proof, current screenshot contact sheet, capsule/key-art proof, art/audio packet, public legal/security links, and current review-gate status at `#review-status`. No separate social profile is approved. | Use the support URL as the public project/support link if the platform accepts GitHub-hosted pages; otherwise provide a platform-specific website/social URL or approve omitting social links. |
 | Public press / support contact | Public support/review issues exist: <https://github.com/elias-leslie/the-aftertimes-support/issues>. No dedicated press inbox is approved. | Use the public issue route for support/review contact if acceptable; otherwise provide a dedicated public inbox. |
 | Privacy / telemetry wording | Public support repo now has public `SECURITY.md`, `LICENSE`, and `NOTICE`; public support page states local-only JSONL playtest telemetry/no network analytics and links the public docs. | External legal/store reviewer must still approve the wording before paid publication. |
 | Store platform account | No Steam/itch account ids, app ids, payout setup, tax setup, or release owner fields are present in repo evidence. | Complete platform account, payout, tax, and app-id setup outside the repo, then record non-secret ids/status here. |
 | Regional pricing | Draft base-price rationale exists at `$9.99 USD`; regional/tax/platform-fee review is not complete. | Approve base price, regional pricing policy, discounts, taxes, and currency handling. |
 | Paid-release legal review | LICENSE, NOTICE, SECURITY, and Credits/Licenses proofs exist; public support repo mirrors LICENSE/NOTICE/SECURITY and the current public title Credits smoke for reviewers. Final external paid-release legal/store review is still open. Intake template: `.github/ISSUE_TEMPLATE/release_legal_store_review.yml`. | Approve final store copy, license notices, privacy/telemetry wording, third-party acknowledgements, and copyright/publisher fields for sale. |
-| Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
+| Platform claims | Linux export smoke is proven; the public release scope / deferral packet proposes Linux-only claims and is summarized at <https://elias-leslie.github.io/the-aftertimes-support/#release-scope>; Windows export artifact exists but runtime execution is deferred; macOS/web/mobile are deferred. Current proof: `docs/PLAYTEST_REPORTS/2026-07-07-public-release-scope-landing-evidence-v1.md`. | Publish only platform claims with current runtime proof, or run the missing platform QA first. |
 
 ## Publication blockers
 
