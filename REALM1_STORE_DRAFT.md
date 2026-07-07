@@ -25,7 +25,7 @@ Current public evidence snapshot:
   SHA256 `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
 - Automated no-injection completion contact:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
-  SHA256 `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
+  SHA256 `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
 - Save/Continue public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256
@@ -228,7 +228,7 @@ package line and public support proofs:
   SHA `2cdd5ba696a55c05d62dafc2bb54b711222c4ef90fdcbc06f5f7c97968a8b1ab`.
 - Public automated completion proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>;
-  contact SHA `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`.
+  contact SHA `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
 - Public save/Continue proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>;
   loaded-bunker screenshot SHA

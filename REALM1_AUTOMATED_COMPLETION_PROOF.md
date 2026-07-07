@@ -1,15 +1,17 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: public scripted no-injection completion proof for the current Linux review build. It does **not** replace external unaided human QA.
+Status: public scripted no-injection completion proof refreshed for the current `35a52259` source/package line. It does **not** replace external unaided human QA.
 
-Use this as reviewer context that the current build has a proven complete path, then run the public build yourself for the external QA verdict.
+Use this as reviewer context that the current build line has a proven complete path, then run the public build yourself for the external QA verdict.
 
 ## Build under review
 
-- Public review release: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
-- Zip SHA256: `4d25cd74e4212de86dd64c7e3fa9b4144d267b31d47192af3def51c276c0904e`
-- Runtime/export commit: `a5392e7c`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-35a52259.zip>
+- Zip SHA256: `32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd`
+- ZIP bytes: `63,381,905`
+- Runtime/export commit: `35a52259`
+- Superseded GitHub Release lineage: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Scope: prerelease external-review package, not a public paid launch.
 
 ## What the scripted proof covers
@@ -21,7 +23,7 @@ It does **not** use debug inventory, save editing, console commands, or a preloa
 ## Public artifact
 
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>  
-  SHA256 `1c850382c86b594a64c13c1260b5b4682a385cdbe408b7896a4b7ff834677348`
+  SHA256 `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`
 
 ## Key milestones verified
 
