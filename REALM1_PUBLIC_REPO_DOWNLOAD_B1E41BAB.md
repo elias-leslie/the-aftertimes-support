@@ -55,7 +55,15 @@ The package was assembled from the current Linux export and extracted locally.
 
 ## Public redownload verification
 
-Pending immediately after this support commit is pushed; public verification will check raw ZIP fetch, byte/SHA match, inner `SHA256SUMS.txt`, extracted headless smoke, support-page browser load, and public proof markers.
+Public verification after support commit `97cd4fd`:
+
+- Public ZIP fetch returned bytes `63,586,751` and SHA256 `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`.
+- Extracted `sha256sum -c SHA256SUMS.txt` passed for the executable, `.pck`, build manifest, playtest guide, build doc, and README.
+- Extracted `./the-aftertimes.x86_64 --headless --quit-after 60` completed successfully.
+- Public raw README, proof doc, and Pages HTML contained the current `b1e41bab` package markers, ZIP SHA, launch contact SHA, and completion contact SHA.
+- Browser verification: `st browser check` first returned `errors=0`, `warnings=0`, `network=0`; the later screenshot subcommand had local browser infra trouble, so a fallback headless Chrome screenshot/DOM capture verified the GitHub Pages UI rendered the `b1e41bab` current-review-build section with the current ZIP SHA.
+
+Source proof hashes: public download summary `03ea31bdc61bdc14e572bc1ce8bd2fe0b62fcf9fda1d2db85737269ff261a3d3`; curl headers `9f720c4115b6445d3d51bc89adb2857555b93d2b512069b8f2e02265f6cf5bd8`; public inner hash-check log `6fb747622a1c66d8b2a49dc982b6d24ebef175b655143ecffe8a36a541c22c72`; public headless smoke log `037dd8b42ca7058b62b5555724cff76b748c651cb2252ee73dac52a938d0ecd2`; public marker fetch log `24ecf238c4d61957d06bd0025925e75d25ff469906a917ddcc578d09a0c47d41`; support-page screenshot `1fb7e77e2688fdf78d5e2f74fa78ac886f528f4bd2fb5c57caf259f431bc1c54`; support-page DOM dump `c56664d60ec83370cc27b8051a9d9aa459f7626d87e786a1b6210ce72aed7368`.
 
 ## Run instructions
 
