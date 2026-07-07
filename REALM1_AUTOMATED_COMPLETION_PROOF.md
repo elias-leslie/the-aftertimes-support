@@ -1,31 +1,31 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: previous scripted no-injection completion proof for the `682a0eb2` source/package line, retained as supplemental lineage for the current `1c6591fb` package. It does **not** replace external unaided human QA.
+Status: current scripted no-injection completion proof for the `1c6591fb` source/package line. It does **not** replace external unaided human QA.
 
-Use this as reviewer context that the previous `682a0eb2` build line had a proven complete path; run the current `1c6591fb` public build yourself for the external QA verdict.
+Use this as reviewer context that the current `1c6591fb` review package has a proven complete path under fixed-seed scripted input; run the public build yourself for the external QA verdict.
 
 ## Build under review
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Zip SHA256: `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`
-- ZIP bytes: `63,382,521`
-- Runtime/export commit: `682a0eb2`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
+- ZIP bytes: `63,386,281`
+- Runtime/export commit: `1c6591fb`
 - Linux executable SHA256: `3154bb4465f616e24b811dd576e9230022872cd80f8d5ab854efed2716b926d4`
-- Godot pack SHA256: `0b1f2e59564ffeb6b4055e0ae6e56e11b3df6b2d365f8260a885260add24c671`
-- Superseded lineage: prior repo-hosted `35a52259` package and GitHub Release asset <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
+- Godot pack SHA256: `88ec801ccde394fba436c8d1bc8a97bf115b9464538eef1079aa8522535c9b17`
+- Superseded lineage: prior repo-hosted `682a0eb2`/`35a52259` packages and GitHub Release asset <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Scope: prerelease external-review package, not a public paid launch.
 
 ## What the scripted proof covers
 
-The previous 682a0eb2 no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
+The current `1c6591fb` no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
 
 It does **not** use debug inventory, save editing, console commands, or a preloaded late-game save. It does use a fixed proof seed and scripted input, so a fresh unaided human playtest is still required for ship approval.
 
 ## Public artifact
 
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>  
-  SHA256 `f0ced4893ea828de1d9f5567dfee06574bf3b7be875e2ebc40261f06085417b2`
+  SHA256 `a029d94df02890d40dec12a99d79aff78f15d3e86f32681392bf75fac771ed5d`
 
 ## Key milestones verified
 

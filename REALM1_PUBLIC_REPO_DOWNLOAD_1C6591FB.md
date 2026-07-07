@@ -17,6 +17,14 @@ This page proves the current source/export commit is available as a repo-hosted 
 - Inner `build_manifest.json` SHA256: `1a6caae6369f7891865176fb83c038cbe81dd33b30bd3ed322ad11e08920ced3`
 - Inner `SHA256SUMS.txt` SHA256: `c5f948b761fcb9ced5d38a5fcec8d9930ca3afedf1010b9b0b4f5e4fabbff1f3`
 
+## Current 1c6591fb public proof refresh
+
+- Automated no-injection completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+- Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
+- Completion contact sheet SHA256: `a029d94df02890d40dec12a99d79aff78f15d3e86f32681392bf75fac771ed5d`
+- Public package Credits / Licenses smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
+- Credits / Licenses screenshot SHA256: `7f5deac1f824daa4f2df95ae46f8be7167460a159f836e285019b074ac2767c4`
+
 ## Export and launch screenshot proof
 
 - Launch screenshot contact: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-1c6591fb.png>
