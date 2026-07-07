@@ -13,6 +13,7 @@ Current ship-ready scope:
 
 - Verdict: **ship-ready for the scoped repo-hosted Linux public package**.
 - Ship-scope decision: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>
+- Support tag: `realm1-linux-b1e41bab`.
 - Paid Steam/itch storefront sale, platform account/app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates.
 
 Current source-fresh public review package:

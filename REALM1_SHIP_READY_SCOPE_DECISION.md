@@ -19,6 +19,7 @@ This is not a Steam/itch paid-store publication approval. Steam, itch, GitHub Re
 - Runtime/export commit: `b1e41bab` (`b1e41babead9c3ef061b9c4073587a844cf96ea4`).
 - Support proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>.
 - Support ship-scope proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>.
+- Support tag: `realm1-linux-b1e41bab`.
 
 ## Gate audit
 
