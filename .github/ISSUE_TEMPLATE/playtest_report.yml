@@ -24,7 +24,7 @@ body:
     id: artifact
     attributes:
       label: Build artifact and hash
-      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-35a52259.zip / zip SHA 32b9dbdfcb1ccb77ac527e59bc6ee8f6aa6ff8bda6bb9a01ea4b2ad7bfbae6dd"
+      placeholder: "https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip / zip SHA 432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719"
     validations:
       required: true
   - type: dropdown

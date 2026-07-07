@@ -12,7 +12,7 @@ body:
     attributes:
       label: Build or proof bundle
       description: Paste the build hash, release URL, or proof bundle path you reviewed.
-      placeholder: "35a52259 repo-hosted package / docs/PLAYTEST_REPORTS/..."
+      placeholder: "682a0eb2 repo-hosted package / docs/PLAYTEST_REPORTS/..."
   - type: dropdown
     id: area
     attributes:
