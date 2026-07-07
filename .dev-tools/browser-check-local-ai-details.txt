@@ -1,8 +1,8 @@
 Target: local-ai
-Screenshot: /tmp/aftertimes-support-release-scope-page.png
+Screenshot: /srv/workspaces/projects/the-aftertimes/docs/visual_proofs/2026-07-07-visual-release-polish-v1/support-review-status-browser-v2.png
 Responsive set: desktop 1600x900, narrow 1180x900, mobile 390x844
 Additional screenshots:
-  narrow: /tmp/aftertimes-support-release-scope-page-narrow.png
-  mobile: /tmp/aftertimes-support-release-scope-page-mobile.png
-Page: https://elias-leslie.github.io/the-aftertimes-support/#release-scope
+  narrow: /srv/workspaces/projects/the-aftertimes/docs/visual_proofs/2026-07-07-visual-release-polish-v1/support-review-status-browser-v2-narrow.png
+  mobile: /srv/workspaces/projects/the-aftertimes/docs/visual_proofs/2026-07-07-visual-release-polish-v1/support-review-status-browser-v2-mobile.png
+Page: https://elias-leslie.github.io/the-aftertimes-support/?v=8b32b6f#review-status
 Title: The AfterTimes Support
