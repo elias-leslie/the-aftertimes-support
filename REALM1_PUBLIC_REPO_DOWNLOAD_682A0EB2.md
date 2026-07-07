@@ -65,9 +65,9 @@ need private/source-repo access.
 
 ## Public runtime basic-smoke proof
 
-The current `682a0eb2` ZIP now has both package-level headless/pause-menu proof
+The current `682a0eb2` ZIP now has package-level headless/pause-menu proof
 and visible title/class-select/gameplay/first-build/surface-return/movement
-smoke screenshots from a public redownload of this same ZIP.
+plus save/Continue smoke screenshots from public redownloads of this same ZIP.
 
 - Public title UI smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_UI_SMOKE.md>
   screenshot SHA256 `01f6c793a1c28810f8b7c2abcb58bcec4a2b55681ee9403cd06678a0924d552e`.
@@ -83,9 +83,9 @@ smoke screenshots from a public redownload of this same ZIP.
   screenshot SHA256 `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`.
 - Public basic-smoke contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-basic-smokes-682a0eb2-contact.png>
   contact SHA256 `7131503a5128475fd0e4f8d6a42c55fc732aac57a6c9d0969857110205ea5f7c`.
-- Prior public save/Continue proof remains `35a52259` lineage until refreshed on
-  `682a0eb2`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>,
-  screenshot SHA256 `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
+- Public save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
+  loaded-bunker screenshot SHA256 `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`;
+  contact sheet SHA256 `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`.
 
 ## Run on Linux
 

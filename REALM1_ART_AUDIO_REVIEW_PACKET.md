@@ -38,10 +38,8 @@ player-facing `Return to Surface` label.
   `Return to Surface = R`.
 
 The title/class-select/gameplay/first-build/surface-return/surface-movement
-smokes below are current `682a0eb2` public runtime-smoke proofs from a fresh
-redownload of this ZIP. Save/Continue remains prior `35a52259` lineage until
-refreshed on `682a0eb2`; use it only as supplemental context, not as a substitute
-for running the current ZIP.
+and save/Continue smokes below are current `682a0eb2` public runtime-smoke
+proofs from fresh redownloads of this ZIP.
 
 - Current surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
   SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`
@@ -49,9 +47,11 @@ for running the current ZIP.
   SHA256 `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`
 - Current surface movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-movement-ui-smoke.png>
   SHA256 `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`
-- Prior save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
-  SHA256 `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`
-- Current 682a0eb2 runtime path: redownloaded repo-hosted package `682a0eb2`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, and moved on the surface. Save/Continue remains prior `35a52259` lineage until refreshed.
+- Current save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
+  SHA256 `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`
+- Current save/Continue contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-save-continue-682a0eb2-contact.png>
+  SHA256 `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`
+- Current 682a0eb2 runtime path: redownloaded repo-hosted package `682a0eb2`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, moved on the surface, saved with **Save Shelter Record**, quit to title, then continued back into the saved bunker.
 
 ## Current internal animation review candidate
 

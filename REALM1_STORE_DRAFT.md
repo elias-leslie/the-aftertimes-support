@@ -29,10 +29,11 @@ Current public evidence snapshot:
 - Automated no-injection completion contact from prior `35a52259` lineage:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
   SHA256 `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
-- Prior `35a52259` save/Continue public smoke:
+- Current `682a0eb2` save/Continue public smoke:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>
   loaded-bunker screenshot SHA256
-  `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
+  `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`; contact sheet SHA256
+  `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`.
 - Current `682a0eb2` basic public runtime smokes:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>,
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>, and
@@ -237,10 +238,11 @@ package line and public support proofs:
 - Public automated completion proof from prior `35a52259` lineage:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>;
   contact SHA `1ea779e0d87dbdb4efea71210416d25f7037d9c0fab3eb28f6a12ed8efcba38a`.
-- Prior public save/Continue proof:
+- Current public save/Continue proof:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_SAVE_CONTINUE_SMOKE.md>;
   loaded-bunker screenshot SHA
-  `6983db7e762fd448ee6f587cb0ddcb95cd905e395310a06b8f0f0f97f68bb281`.
+  `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`; contact sheet SHA
+  `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`.
 - Current 682a0eb2 public basic runtime smoke proofs:
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_GAMEPLAY_ENTRY_SMOKE.md>,
   <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_RELEASE_FIRST_BUILD_SMOKE.md>, and
