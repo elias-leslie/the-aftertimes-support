@@ -6,20 +6,20 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Build under review
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Zip SHA256: `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`
-- ZIP bytes: `63,382,521`
-- Runtime/export commit: `682a0eb2`
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
+- ZIP bytes: `63,386,281`
+- Runtime/export commit: `1c6591fb`
 - Scope: prerelease external-review package, not a public paid launch.
-- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md>
+- Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Automated no-injection completion proof from current `682a0eb2` source/package line: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
+- Automated no-injection completion proof from previous `682a0eb2` source/package line, supplemental to the current `1c6591fb` package: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 
 ## Visual and store-art artifacts
 
-- Launch screenshot contact sheet for `682a0eb2`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-682a0eb2.png>
-  SHA256 `8500cbdf66dda8b153bae3f5642fc1ac20f04542e1c1dce644bcbfe8448bd146`
+- Launch screenshot contact sheet for `1c6591fb`: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/launch-screenshots-v2-contact-1c6591fb.png>
+  SHA256 `d1de726b9f2dee02898e342801c21f213ad1dc2d381035390c0a64d1bd03b9ec`
 - Capsule/key-art family proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/steam-capsule-family-v1-proof.png>
   SHA256 `9e673f4d7a172a79a3e3b1eb40e8dca7291245e64c99656890e4bf0d038e02f3`
 - A-Loom capsule review: <https://a-loom.summitflow.dev/?asset=aftertimes_capsule_family_v1_review&version=ver-d8560b35331e4832b5a49f1056fef725&play=0&zoom=1>
@@ -27,9 +27,8 @@ Review the running Linux build first, then use these public artifacts for still-
 
 ## Current public-package runtime visual proof
 
-Use the source-fresh `682a0eb2` package first for any new running-game review.
-The exported-package proof below confirms the pause Controls row uses the
-player-facing `Return to Surface` label.
+Use the source-fresh `1c6591fb` package first for any new running-game review.
+The previous `682a0eb2` exported-package proof below remains supplemental lineage for the pause Controls `Return to Surface` label.
 
 - Exported-package Return to Surface control-label proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-package-return-to-surface-control-label-682a0eb2.png>
   SHA256 `7cc4e689feb67239863479b51554c7c91c64521e653fe27b82f7a635b9fa7d05`
@@ -38,20 +37,20 @@ player-facing `Return to Surface` label.
   `Return to Surface = R`.
 
 The title/class-select/gameplay/first-build/surface-return/surface-movement
-and save/Continue smokes below are current `682a0eb2` public runtime-smoke
-proofs from fresh redownloads of this ZIP.
+and save/Continue smokes below are previous `682a0eb2` public runtime-smoke
+proofs retained as supplemental lineage for the current `1c6591fb` package.
 
-- Current surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
+- Previous 682a0eb2 surface gameplay-entry smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-gameplay-entry-ui-smoke.png>
   SHA256 `c8eaff4374af396b24d85547b89ca0d109b47592a2de0813377f0a417fd03483`
-- Current first Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-first-build-ui-smoke.png>
+- Previous 682a0eb2 first Storage build smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-first-build-ui-smoke.png>
   SHA256 `361ccf94a5a0cca716d81c6462f1d8cc871c9bf71270f6f0df8980517ff140e2`
-- Current surface movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-movement-ui-smoke.png>
+- Previous 682a0eb2 surface movement smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-surface-movement-ui-smoke.png>
   SHA256 `5bd24b8c5639695bc203b4040de479c4ab836f5e0cc4cd555bdd452bc0ae8135`
-- Current save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
+- Previous 682a0eb2 save/Continue smoke: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-release-save-continue-smoke.png>
   SHA256 `5bcc4ccc92f66cac597926090b02d2772bfdc28882cb6eee00cbb7168b834015`
-- Current save/Continue contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-save-continue-682a0eb2-contact.png>
+- Previous 682a0eb2 save/Continue contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/public-save-continue-682a0eb2-contact.png>
   SHA256 `0fdcbb70e3d4cc218d663a0dcfaed8bc5e2f693ac7c6c105ba8cbd4b3bbf6452`
-- Current 682a0eb2 runtime path: redownloaded repo-hosted package `682a0eb2`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, moved on the surface, saved with **Save Shelter Record**, quit to title, then continued back into the saved bunker.
+- Previous 682a0eb2 runtime path: redownloaded repo-hosted package `682a0eb2`, title -> class select -> surface -> bunker, built Storage through player-facing input, returned to surface, moved on the surface, saved with **Save Shelter Record**, quit to title, then continued back into the saved bunker.
 
 ## Current internal animation review candidate
 

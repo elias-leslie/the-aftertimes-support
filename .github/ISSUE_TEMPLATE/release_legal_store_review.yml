@@ -24,7 +24,7 @@ body:
     id: artifacts
     attributes:
       label: Build / proof / store-material bundle reviewed
-      description: Include https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip, zip SHA 432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719, launch-material docs, screenshot/capsule proof paths, A-Loom links, LICENSE/NOTICE/SECURITY links, and draft store-copy links.
+      description: Include https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip, zip SHA 05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a, launch-material docs, screenshot/capsule proof paths, A-Loom links, LICENSE/NOTICE/SECURITY links, and draft store-copy links.
     validations:
       required: true
   - type: checkboxes

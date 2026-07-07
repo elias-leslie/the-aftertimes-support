@@ -1,6 +1,6 @@
 # Realm 1 Public Release Class Select Smoke
 
-Status: public source-fresh `682a0eb2` UI/gameplay smoke proof. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
+Status: previous public source-fresh `682a0eb2` UI/gameplay smoke proof. This does **not** replace external unaided QA, art/audio review, or legal/store approval.
 
 Verified on 2026-07-07 from the public repo-hosted support ZIP after redownload and SHA check:
 

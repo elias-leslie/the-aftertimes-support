@@ -15,13 +15,13 @@ craft reactor parts, steady the Geothermal Reactor, save, quit, and continue.
 
 Public review package:
 
-- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md>
+- Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+- Public repo-hosted package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_1C6591FB.md>
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
-- Zip SHA256: `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`
-- ZIP bytes: `63,382,521`
-- Runtime/export commit: `682a0eb2`
+- Zip SHA256: `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`
+- ZIP bytes: `63,386,281`
+- Runtime/export commit: `1c6591fb`
 
 Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted folder.
 
@@ -32,13 +32,13 @@ Keep `the-aftertimes.x86_64` and `the-aftertimes.pck` in the same extracted fold
 Download and extract the public Linux review zip, then run:
 
 ```bash
-sha256sum the-aftertimes-realm1-linux-682a0eb2.zip
-unzip the-aftertimes-realm1-linux-682a0eb2.zip
+sha256sum the-aftertimes-realm1-linux-1c6591fb.zip
+unzip the-aftertimes-realm1-linux-1c6591fb.zip
 chmod +x the-aftertimes.x86_64
 ./the-aftertimes.x86_64
 ```
 
-The hash should print `432d450275e7e42f7b000c8a9e4b7d488c8bf72e273d4638f89d395144f2b719`.
+The hash should print `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`.
 
 Public Windows/macOS/web/mobile packages are not part of this review packet; judge the Linux build above.
 

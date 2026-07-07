@@ -2,10 +2,11 @@
 
 Status: **public proof for external legal/store/business review; not legal approval.**
 
-This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a redownloaded public-package title Credits smoke from the current `682a0eb2` review build. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
+This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a redownloaded public-package title Credits smoke from the previous `682a0eb2` review build; current package is `1c6591fb`. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
-- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
-- Current title Credits smoke package: repo-hosted `682a0eb2` ZIP (redownloaded 2026-07-07).
+- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-1c6591fb.zip>
+Previous 682a0eb2 review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-682a0eb2.zip>
+- Previous title Credits smoke package: repo-hosted `682a0eb2` ZIP (redownloaded 2026-07-07).
 - Superseded title Credits smoke lineage: prior repo-hosted `35a52259` package and <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Public license: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Public notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
@@ -23,9 +24,9 @@ This page mirrors current runtime proof for the title Credits / Licenses panel a
 
 ## Public package smoke
 
-- Runtime path: redownloaded the current repo-hosted `682a0eb2` public zip on 2026-07-07, verified ZIP/executable/PCK hashes, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, closed it, and verified the game stayed running.
-- Result: title Credits / Licenses panel opened and closed with no runtime errors beyond the known Xvfb V-Sync warning. The screenshot hash matches the prior 35a/a539 smoke because the legal panel content did not change; this run proves access from the current `682a0eb2` package.
-- Current `682a0eb2` package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md>
+- Runtime path: redownloaded the previous repo-hosted `682a0eb2` public zip on 2026-07-07, verified ZIP/executable/PCK hashes, launched the extracted Linux executable from a fresh temp profile, moved title selection to **Credits / Licenses**, opened the panel, captured it, closed it, and verified the game stayed running.
+- Result: title Credits / Licenses panel opened and closed with no runtime errors beyond the known Xvfb V-Sync warning. The screenshot hash matches the prior 35a/a539 smoke because the legal panel content did not change; this run proves access from the previous `682a0eb2` package; the current `1c6591fb` package keeps the same Credits/Licenses panel content.
+- Previous `682a0eb2` package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_682A0EB2.md>
 
 ## Source evidence summary
 

@@ -1,8 +1,8 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: public scripted no-injection completion proof refreshed for the current `682a0eb2` source/package line. It does **not** replace external unaided human QA.
+Status: previous scripted no-injection completion proof for the `682a0eb2` source/package line, retained as supplemental lineage for the current `1c6591fb` package. It does **not** replace external unaided human QA.
 
-Use this as reviewer context that the current build line has a proven complete path, then run the public build yourself for the external QA verdict.
+Use this as reviewer context that the previous `682a0eb2` build line had a proven complete path; run the current `1c6591fb` public build yourself for the external QA verdict.
 
 ## Build under review
 
@@ -18,7 +18,7 @@ Use this as reviewer context that the current build line has a proven complete p
 
 ## What the scripted proof covers
 
-The current no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
+The previous 682a0eb2 no-injection proof starts from title/class select, uses normal UI/input, survives the surface for two minutes, gathers generated resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts through the C overlay, powers the generator, repairs/assembles the Reactor Site, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
 
 It does **not** use debug inventory, save editing, console commands, or a preloaded late-game save. It does use a fixed proof seed and scripted input, so a fresh unaided human playtest is still required for ship approval.
 
