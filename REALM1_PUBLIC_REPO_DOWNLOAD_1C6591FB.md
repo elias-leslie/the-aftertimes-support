@@ -36,7 +36,16 @@ The package was assembled from the current Linux export and extracted locally.
 
 ## Public redownload verification
 
-Public redownload verification is recorded in the source-repo proof report for this package. If viewing this file before the second verification commit lands, compare the ZIP SHA above to the public raw download after GitHub updates Pages/raw cache.
+Public raw/download verification after support commit `5f7f4d5`:
+
+- Public ZIP fetch returned HTTP `200`, content type `application/zip`, bytes `63,386,281`, and raw.githubusercontent effective URL.
+- Downloaded ZIP SHA256 matched `05642da1e77e24273e83c99bab863a99aefb442846caccf038bb95a8f0a3a79a`.
+- Extracted `sha256sum -c SHA256SUMS.txt` passed for executable, `.pck`, build manifest, playtest guide, build doc, and README.
+- Extracted `./the-aftertimes.x86_64 --headless --quit-after 60` completed with `public_redownload_smoke=PASS`.
+- Public README, proof doc, and Pages fetches returned current `1c6591fb` package markers.
+- Browser check of the public support page reported `errors=0`, `warnings=0`, `network=0`, `command_warnings=0`.
+
+Source-repo proof hashes: public download smoke log `c6165eb78acb101788a3fde16c2d91c34f9a6ec0447837ecb149f07bc20d25b6`; public support fetch log `d0b1668bc45f77c112c7b54a4848bad25090b1d73a6d37e4e21497e082ed55cb`; browser check log `f14a45d64816773d452e648b2894ee2a993ee1f9877609456f999aa97deff2c7`; browser screenshot `a8dc98ce7d6c9f66a451e1dd2368eb71bea129c85ea1d7a6a2c150e074ee541b`.
 
 ## Run instructions
 
