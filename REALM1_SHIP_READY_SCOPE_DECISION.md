@@ -1,11 +1,15 @@
 # Ship-Ready Scope Decision v1
 
+> **Historical evidence only — superseded 2026-07-10.** The active stricter
+> top-tier review is **NOT RELEASE-CERTIFIED**, with an accepted native-input
+> matrix of **0/22**. See [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
+
 Date: 2026-07-07  
 Scope: close the remaining store/legal/platform/publication gate without relying on human review.
 
 ## Verdict
 
-PASS for the scoped public Linux package release. Realm 1 is ship-ready for the currently published repo-hosted Linux package and support-page distribution path.
+Historical PASS for the former scoped public Linux package release. This verdict no longer represents the current release status.
 
 This is not a Steam/itch paid-store publication approval. Steam, itch, GitHub Releases assets, platform account/app IDs, payout/tax setup, regional pricing, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are explicitly deferred from this ship-ready scope.
 

@@ -1,5 +1,9 @@
 # The AfterTimes Realm 1 Store Draft
 
+> **Historical draft/package context only.** No public package is currently
+> certified against the active top-tier review. See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
+
 Status: **ship-ready for scoped repo-hosted Linux public package; paid storefront publication deferred.**
 
 This page mirrors the current non-secret launch/store copy from the game repo so the release checklist can verify store description, tags, Early Access wording, trailer outline, pricing rationale, and known blockers without private repo access. Do not treat this as a live store page approval.
@@ -7,7 +11,7 @@ This page mirrors the current non-secret launch/store copy from the game repo so
 Ship-ready scope decision: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>
 Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
 
-Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+Historical review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
 Current package proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_PUBLIC_REPO_DOWNLOAD_B1E41BAB.md>
 Superseded GitHub Release asset: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 Public review status: <https://elias-leslie.github.io/the-aftertimes-support/#review-status>

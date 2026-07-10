@@ -1,10 +1,14 @@
 # The AfterTimes Realm 1 Credits / Licenses Proof
 
+> **Historical `b1e41bab` evidence only.** See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md) for
+> current release status.
+
 Status: **public proof for the scoped Linux package legal/support checklist.**
 
 This page mirrors current runtime proof for the title Credits / Licenses panel and the playable endgame Credits / Licenses overlay. It also includes a current `b1e41bab` source title Credits smoke exported to the public support packet; the repo-hosted package uses the same current `.pck` content. Use it with the public `LICENSE`, `NOTICE`, and `SECURITY.md` files when reviewing issue #3.
 
-- Current review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
+- Historical review build: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
 - Current title Credits smoke package: current `b1e41bab` source proof exported 2026-07-07.
 - Superseded title Credits smoke lineage: prior repo-hosted `682a0eb2`/`35a52259` packages and <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Public license: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>

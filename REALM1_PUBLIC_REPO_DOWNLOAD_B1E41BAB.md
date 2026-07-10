@@ -1,6 +1,10 @@
 # Realm 1 Public Repo-Hosted Review Package b1e41bab
 
-Status: current source-fresh public Linux package and ship-ready proof for the scoped repo-hosted Linux distribution path. Completion, visual/graphics, audio/SFX, package integrity, public redownload, support-page publication, Credits/Licenses, and local-only telemetry gates are `PASS`.
+> **Historical archive — not the current review build.** The active stricter
+> top-tier review is **NOT RELEASE-CERTIFIED / 0 of 22**. See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
+
+Status: historical source-fresh public Linux archive and former narrow-scope proof. Its old PASS claims do not represent current release status.
 
 This page proves the current source/export commit is available as a public repo-hosted ZIP. The scoped ship-ready decision is recorded in <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>. Paid Steam/itch storefront sale, GitHub Release asset upload, platform account/app IDs, payout/tax/regional pricing, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates. The prior repo-hosted `1c6591fb`, `682a0eb2`, and `35a52259` packages and the GitHub Release asset `realm1-review-a5392e7c` remain superseded lineage only.
 
@@ -19,7 +23,7 @@ This page proves the current source/export commit is available as a public repo-
 - Inner `build_manifest.json` SHA256: `5f5344b2dca8929733213455b34b1d91a6d4f5dd01624738971504bb5df31c30`
 - Inner `SHA256SUMS.txt` SHA256: `1ebc741892c49186f4afb16c9a6123596912dfb5e26690fbf11a54425ede00b3`
 
-## Current b1e41bab completion proof
+## Historical b1e41bab completion proof
 
 - Automated no-injection completion proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AUTOMATED_COMPLETION_PROOF.md>
 - Completion contact sheet: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/realm1-automated-completion-contact.png>
@@ -27,7 +31,7 @@ This page proves the current source/export commit is available as a public repo-
 - Completion proof log SHA256: `6718bab2007810bf4150a37b21320c2817726a7edf6120cbf08b14db4610d528`
 - Completion marker scan SHA256: `ce1f25e1227e088fb820e17321e7adee8e1935842977b8e3b05e1cc28fd40518`
 
-The current b1e41bab scripted proof starts at the title menu, uses normal UI/input, survives a two-minute surface run, gathers 53 resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts, powers/repairs/assembles the Geothermal Reactor, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
+The historical b1e41bab scripted proof starts at the title menu, uses normal UI/input, survives a two-minute surface run, gathers 53 resources through Interact, recruits Mira/Jonas/the Archivist, enters the bunker through player interaction, builds seven rooms, crafts reactor parts, powers/repairs/assembles the Geothermal Reactor, opens the elevator payoff, saves, quits to title, uses Continue, and reloads with `reactor_complete=true`.
 
 ## Export and launch screenshot proof
 

@@ -1,10 +1,14 @@
 # Realm 1 Agentic Release Quality Gates
 
-Status: current agentic art/audio/release-quality gate evidence for `b1e41bab`.
+> **Historical July 7 evidence — not current.** The active stricter top-tier
+> review is **NO / 0 of 22**. See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
+
+Status: historical agentic art/audio/release-quality gate evidence for `b1e41bab`.
 
 This page supersedes older wording that treated paid launch as blocked on vague human review. Current completion gates use deterministic runtime proof, A-Loom/runtime asset handoffs, Agent Hub visual/audio reviewers, and concrete release-field decisions.
 
-## Current verdicts
+## Historical verdicts
 
 - Completion proof: `PASS` — current no-injection scripted completion reaches class select, surface survival, 3 NPCs, bunker, 7 rooms, reactor, elevator/win, save, title Continue, and reload.
 - Audio/SFX: `PASS` — 34 runtime audio files, 399.99s total, true-peak max -1.4 dBFS, 0 metric issues; Agent Hub verifier reports `STATUS: verified`.

@@ -9,14 +9,26 @@ Public support and release-review contact point for **The AfterTimes**.
 - License: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/LICENSE>
 - Notice: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/NOTICE>
 
-Current ship-ready scope:
+## Current top-tier review status
 
-- Verdict: **ship-ready for the scoped repo-hosted Linux public package**.
+- Verdict: **NOT RELEASE-CERTIFIED / active quality review**.
+- Accepted native-input completion matrix: **0 of 22**.
+- Current status: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/CURRENT_TOP_TIER_REVIEW_STATUS.md>
+- No public package is currently certified against this stricter review.
+- The local `f2fbef98` candidate is not published here; the public `b1e41bab`
+  ZIP is historical evidence only.
+- PS5/DualSense primary controls have bounded virtual-Sony evidence; the user's
+  physical USB/Bluetooth controller remains untested.
+
+## Historical July 7 scope decision — superseded
+
+- Historical verdict: ship-ready only for the earlier narrow repo-hosted Linux
+  scope. It is superseded by the current top-tier **NO / 0 of 22** review.
 - Ship-scope decision: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_SHIP_READY_SCOPE_DECISION.md>
 - Support tag: `realm1-linux-b1e41bab`.
 - Paid Steam/itch storefront sale, platform account/app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates.
 
-Current source-fresh public review package:
+Historical public package archive — **not current**:
 
 - Repo-hosted Linux review zip: <https://github.com/elias-leslie/the-aftertimes-support/raw/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
 - Download file in repository: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/downloads/the-aftertimes-realm1-linux-b1e41bab.zip>
@@ -35,22 +47,21 @@ Current source-fresh public review package:
 - Public visual release polish proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_VISUAL_RELEASE_POLISH_V1.md>
   - Visual/graphics verdict: `PASS`; launch contact SHA `97767802834b36813753d904f1abd5f0fd4f65f149244cf02f2c0b7fe9960455`, UI contact SHA `fc8730706342713414ef4372b28f4c09d944df0e3c99a5d9c448850dbadbc2db`.
 - Public agentic release quality gates: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_AGENTIC_RELEASE_QUALITY_GATES.md>
-  - Current verdicts: completion `PASS`, audio/SFX `PASS`, visual/graphics `PASS`, scoped Linux publication `PASS`; paid storefront/platform-account fields are deferred future gates.
+  - Historical July 7 verdicts only: completion `PASS`, audio/SFX `PASS`, visual/graphics `PASS`, scoped Linux publication `PASS`.
 - Public store copy draft: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_STORE_DRAFT.md>
   - Includes the current `b1e41bab` package snapshot: Linux zip SHA `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`, launch contact SHA `aaad370c9cbde3f9a27672eafa29eeaf44ff142026652359c2c712f138352ae5`, automated-completion contact SHA `72686288b998621a2098d326d3541204cec9128b5444333a7c02dde4f12391ca`, current title Credits smoke SHA `eefc6cb49aca2b31ba245b1ad7405ba12cd325cb2d321c5e50810d0a1a6b0329`, plus previous `682a0eb2` basic runtime and save/Continue smoke lineage.
 - Public release scope / deferral review: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_RELEASE_SCOPE_DEFERRALS.md>
   - Approved scoped release: Realm 1 public Linux package, Linux-only platform claim, GitHub Pages/issues as public support route, local-only JSONL/no-network telemetry wording, and explicit deferrals for paid storefronts, Windows runtime, macOS, web, mobile, multiplayer, Realms 2-6, dedicated press inbox/social links, and private platform/tax/payout details.
 - Public Credits / Licenses proof: <https://github.com/elias-leslie/the-aftertimes-support/blob/main/REALM1_CREDITS_LICENSES_PROOF.md>
-  - Credits proof page includes the current b1e41bab source title Credits smoke; paid storefront legal/store/business fields are deferred future gates.
+  - Historical Credits proof page includes the b1e41bab source title Credits smoke.
 - Superseded GitHub Release page: <https://github.com/elias-leslie/the-aftertimes-support/releases/tag/realm1-review-a5392e7c>
 - Superseded GitHub Release Linux zip: <https://github.com/elias-leslie/the-aftertimes-support/releases/download/realm1-review-a5392e7c/the-aftertimes-realm1-linux-a5392e7c.zip>
-- Current ZIP SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
-- Current ZIP bytes: `63,586,751`
-- Runtime/export commit: `b1e41bab`
-- Scope: public repo-hosted Linux package release, not a public paid storefront launch.
-- Release-asset note: use the repo-hosted `b1e41bab` ZIP for the scoped Linux release; GitHub Release asset publication is a deferred future gate.
+- Historical ZIP SHA256: `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`
+- Historical ZIP bytes: `63,586,751`
+- Historical runtime/export commit: `b1e41bab`
+- Archive note: do not use this ZIP as a current release recommendation.
 
-Run on Linux:
+Run the historical archive on Linux:
 
 1. Download the repo-hosted Linux review zip.
 2. Optional hash check: `sha256sum the-aftertimes-realm1-linux-b1e41bab.zip` should print `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`.
@@ -58,7 +69,8 @@ Run on Linux:
 
 Public feedback / decision forms:
 
-Review form placeholders use the current source-fresh repo-hosted package `b1e41bab` and zip SHA `296aa58f7992a78486aee7e7ef39bedf266aefe968ce4f870d0442bc9b581621`.
+The existing review-form placeholders refer to historical package `b1e41bab`.
+Always name the exact package actually tested; do not call that archive current.
 
 - QA playtest report: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=playtest_report.yml>
 - Art / animation / audio review: <https://github.com/elias-leslie/the-aftertimes-support/issues/new?template=art_animation_audio_review.yml>
@@ -70,12 +82,15 @@ Public tracker artifacts:
 - Agentic visual/audio release-quality tracker (closed PASS): <https://github.com/elias-leslie/the-aftertimes-support/issues/2>
 - Store/legal/platform fields and publication proof tracker: <https://github.com/elias-leslie/the-aftertimes-support/issues/3> (closed for scoped Linux public package; reopen for paid storefront/non-Linux/platform credentials)
 
-Current release gates:
+Current top-tier re-review gates:
 
-- Completion QA: current deterministic no-injection completion proof is `PASS`; reopen only on concrete failed runtime evidence or accepted scope change.
-- Art / graphics: current runtime/A-Loom/Agent Hub visual review is `PASS`; issue #2 is closed completed.
-- Audio / SFX: current metrics plus Agent Hub verifier are `PASS`; reactor hum is now a 30s runtime loop.
-- Legal / store / business: PASS for scoped Linux package; paid storefront/pricing/account fields and non-Linux platform claims are deferred.
+- Overall: **NO**; accepted matrix **0/22**.
+- Completion QA: no accepted external native-input full completion.
+- Art / graphics: current critics retain P1 final-art/action/UI/environment debt.
+- Audio / SFX: reachability and coarse metrics pass, but exact-route listening
+  and finality remain open.
+- Publication: local candidates are not a current public release; final
+  freeze/publication/redownload must be repeated after all P1 work.
 
 Current approved release scope:
 

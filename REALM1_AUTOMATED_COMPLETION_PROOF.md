@@ -1,8 +1,13 @@
 # Realm 1 Public Automated Completion Proof
 
-Status: current deterministic no-injection completion proof for the `b1e41bab` source/package line. It is the active completion QA evidence gate unless concrete runtime failures are found.
+> **Historical `b1e41bab` evidence only.** This scripted proof is not an
+> accepted slot in the active external native-input matrix, which remains
+> **0/22**. See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
 
-Use this as current proof that the `b1e41bab` package has a proven complete path under fixed-seed scripted input. Public playtest feedback is still welcome, but the scoped Linux package does not depend on vague human review.
+Status: historical deterministic no-injection completion proof for the `b1e41bab` source/package line; not current completion certification.
+
+Use this as historical proof that the `b1e41bab` package had a scripted path under its former scope, not as current top-tier release evidence.
 
 ## Build under review
 

@@ -1,9 +1,13 @@
 # Realm 1 Public Playtest Guide
 
+> **Historical `b1e41bab` guide — not current release guidance.** The active
+> top-tier review is **NOT RELEASE-CERTIFIED / 0 of 22**. See
+> [CURRENT_TOP_TIER_REVIEW_STATUS.md](CURRENT_TOP_TIER_REVIEW_STATUS.md).
+
 Source guide date: 2026-06-18  
 Public support copy: 2026-07-07
 Build target: Realm 1 / **The AfterTimes** public Linux review package  
-Status: **ship-ready for scoped repo-hosted Linux package; paid store/non-Linux platform publication deferred**
+Status: **historical archive only; superseded by active top-tier review**
 
 Current scope note, 2026-07-07: this public guide targets the source-fresh repo-hosted `b1e41bab` Linux package linked below. Completion, visual/graphics, audio/SFX, package integrity, public redownload, Credits/Licenses, and local-only telemetry proof pass. Paid Steam/itch storefront publication, platform account/app IDs, payout/tax/regional pricing, GitHub Release asset upload, dedicated press/social channels, Windows runtime claims, macOS, web, and mobile are deferred future release gates.
 
